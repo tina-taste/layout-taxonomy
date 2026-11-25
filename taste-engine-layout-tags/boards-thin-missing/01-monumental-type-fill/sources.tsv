@@ -1,0 +1,13 @@
+file	brand	url	match	reason	search_id
+01-drivecapital.jpg	drivecapital	https://drivecapital.com/	strong	Massive bold 'DRIVE' bleeds edge to edge, letters cropped by the frame, tiny corner logo and menu—type literally is the image.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+02-gracestudio.jpg	gracestudio	https://gracestudio.se/	strong	Enormous 'GRACE.' spans the full width with letters cropped by the top edge and tiny inline nav—exactly the type-as-image look.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+03-helloelva.jpg	helloelva	https://helloelva.com/	strong	Towering headline fills the whole fold edge to edge with letters cropped at left and tiny corner nav—type dominates fully.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+04-aircord.jpg	aircord	https://aircord.co.jp/en	strong	Massive 'WE CREATE A' bleeds off both edges, letters cropped by viewport, tiny pill nav—dramatic type-as-image exactly on brief.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+05-discoveroutpost.jpg	discoveroutpost	https://discoveroutpost.com/	strong	Huge black headline dominates the fold with tiny corner nav, though type stays centered rather than cropped by viewport edges.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+06-big.jpg	big	https://big.tc/	strong	Oversized headline fills the fold with minimal nav, but letters are contained within margins rather than cropped at the edges.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+07-outpost.jpg	outpost	https://outpost.design/	strong	Same giant centered headline with tiny corner nav; bold and typographic but letters aren't cropped by viewport edges.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+08-zajno.jpg	zajno	https://zajno.com/work/products	strong	Giant 'Start. Scale. Grow' runs edge to edge with word cropped and micro corner nav, though body text crowds below.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+09-september.jpg	september	https://september.digital/about	good	Big blue display type is dramatic but sits inset with body copy below, not edge-to-edge viewport-filling.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+10-svz.jpg	svz	https://svz.io/	related	Dark busy layout with small centered serif headline and scattered shapes, lacking the viewport-filling oversized scale you want.	1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+11-bindery.jpg	bindery	https://bindery.co/	good		1439a672-68cd-4f69-b4f3-d1804e9d0b2b
+12-newworld.jpg	newworld	https://newworld.inc/	related		1439a672-68cd-4f69-b4f3-d1804e9d0b2b

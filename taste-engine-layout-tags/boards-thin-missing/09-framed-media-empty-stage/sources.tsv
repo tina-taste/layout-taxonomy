@@ -1,0 +1,13 @@
+file	brand	url	match	reason	search_id
+01-off.jpg	off	https://off.site/	good	Clean off-white page with centered serif, but the giant headline and bottom boxes read as editorial agency, not a single framed artwork.	e8779884-2c1c-47b7-ace6-603df2226450
+02-boyd.jpg	boyd	https://boyd.ae/	good	Generous cream whitespace with centered serif text feels gallery-calm, but it offers typography on a splash page, no framed media.	e8779884-2c1c-47b7-ace6-603df2226450
+03-studiovignette.jpg	studiovignette	https://studiovignette.com.au/	good	Warm beige minimalism with a single off-center photo and restrained type is gallery-like, but the image sits bottom-right, not centered.	e8779884-2c1c-47b7-ace6-603df2226450
+04-whiteboard.jpg	whiteboard	https://whiteboard.is/	good	Stark white page with centered italic serif has real restraint and whitespace, but it is pure type with no framed photo.	e8779884-2c1c-47b7-ace6-603df2226450
+05-lumenartspace.jpg	lumenartspace	https://lumenartspace.com/	good	Dark gallery-feel centered serif title over cloud linework evokes curated restraint, but it shows ornamental type, not a framed photo.	e8779884-2c1c-47b7-ace6-603df2226450
+06-lottaagaton.jpg	lottaagaton	https://lottaagaton.se/	related	A full-bleed brown photograph fills the frame edge to edge, lacking the centered small artwork with surrounding whitespace you want.	e8779884-2c1c-47b7-ace6-603df2226450
+07-coevalstudio.jpg	coevalstudio	https://coevalstudio.com/about	related	Oversized overlapping serif and a dark vertical sculpture create dramatic typographic tension, too busy and large-scale for your quiet centered-frame look.	e8779884-2c1c-47b7-ace6-603df2226450
+08-ueberbild.jpg	ueberbild	https://ueberbild.de/about	related	Spacious white layout with widely spaced serif words is elegant but entirely typographic, offering no centered framed media and a cookie banner.	e8779884-2c1c-47b7-ace6-603df2226450
+09-thisistinge.jpg	thisistinge	https://thisistinge.com/about	related	A grid of four colorful thumbnails with bold type is busy portfolio layout, not a single centered artwork on empty space.	e8779884-2c1c-47b7-ace6-603df2226450
+10-olivergustav.jpg	olivergustav	https://olivergustav.com/pages/about	related	A large amber sculptural image dominates below a centered logo, atmospheric but full-bleed rather than a small framed artwork in whitespace.	e8779884-2c1c-47b7-ace6-603df2226450
+11-obsidianassembly.jpg	obsidianassembly	https://obsidianassembly.com/	good		e8779884-2c1c-47b7-ace6-603df2226450
+12-gracestudio.jpg	gracestudio	https://gracestudio.se/	related		e8779884-2c1c-47b7-ace6-603df2226450

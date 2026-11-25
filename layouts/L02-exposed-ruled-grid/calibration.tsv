@@ -1,0 +1,15 @@
+source	lens	query	filter	hits_out_of_10	notes
+taste-engine	name	exposed grid, visible ruled grid layout	-	5/10	hits: buszewski, calarts, badesaison, vienna, morganhyland
+taste-engine	visual	whole page divided by thin black hairline lines into boxes like a spreadsheet or calendar, each cell holding a label, number or small thumbnail	-	3/10	hits: calarts, vienna, morganhyland; "boxes/cells" pulled card grids and outlined cards
+taste-engine	structural	modular grid of columns and rows with hairline borders drawn on every cell, flat hierarchy with no hero, content snapped into cells	-	4/10	hits: morganhyland, calarts, vienna, buszewski
+taste-engine	corpustag	Strict Grid, Grid-Defined Space, Line Art / Outline dividers, Monospace, Swiss Style, Tight/Dense, visible grid lines	grid_based_strict	3/10	grid_based_strict filter: buszewski, vienna, shawnlukas; filter means strict grid, not drawn rules
+taste-engine	tonelayout	systematic technical archival site: neutral ground, black hairline rules forming a visible cell grid, one accent colour, monospace labels	-	0/10	"technical archival monospace" pulled dev-tool/SaaS and terminal aesthetics with no ruled cells
+wikimedia-commons	print	calendar 1930 typography	-	0/1 (hits/viewed)	
+wikimedia-commons	print	periodic table 1900	-	1/26 (hits/viewed)	mostly PDF scans; one ruled spiral table
+wikimedia-commons	print	Swiss style poster grid	-	1/7 (hits/viewed)	Paper Trade Journal ad page with ruled boxes (kept)
+wikimedia-commons	print	timetable grid chart	-	0/24 (hits/viewed)	gov PDF covers
+wikimedia-commons	print	periodic table 1900 filetype:bitmap	-	5/16 (hits/viewed)	best: ruled tables/charts with numbers in cells (periodic tables, almanac moonlight chart, ruled data chart)
+wikimedia-commons	print	calendar 1920s filetype:bitmap	-	0/9 (hits/viewed)	photo albums
+wikimedia-commons	print	classified advertisements newspaper page filetype:bitmap	-	0/7 (hits/viewed)	single ads
+wikimedia-commons	print	trade journal advertisements page filetype:bitmap	-	0/25 (hits/viewed)	single ads, no ruled grid
+firecrawl	web-first-screen	see notes	-	6/6	scraped TE winners + poster-tribune.ch (TE text said white-lined grid). All 6 pass: vienna, calarts, shawnlukas, poster-tribune, buszewski, morganhyland

@@ -1,0 +1,87 @@
+pattern	type	name	url	verified	notes
+Bookend Type	web	Petrillo.studio	https://petrillo.studio/	yes	Giant clock numerals (time top, date bottom) pin top and bottom edges; clock face in the middle band. Red field. Found via minimal.gallery.
+Whisper Margins	web	Thursday's Child	https://www.thursdayschild.global/	yes	Black viewport, tiny nav and credits in the four corners, one tiny word at centre. Dark variant. Found via minimal.gallery.
+Letter Scatter	web	Onœra	https://onoera.com/	yes	Wordmark split into on · œ · ra, spread edge to edge across the viewport on a gradient field. Borderline: syllables rather than single letters. Found via minimal.gallery.
+Letter Scatter	web	Kwok Yin Mak	https://www.kwokyinmak.com/	yes	The three characters of the name (麥 國 然) set huge and spread diagonally across a white screen, joined by hairlines; vertical text rails at both edges. Found via firecrawl agent (speckyboy vertical-lettering roundup).
+Shape-Mask Window	web	The Creative Bodega	https://www.thecreativebodega.com/	yes	Arch-topped portrait photo on a flat cream ground, headline and buttons beside it. Small-business (Podia) site, not studio-grade. Found via firecrawl agent (createtoday.io examples).
+Letter Scatter	web	ISTD International Typographic Awards 2024	https://istdawards.com/	yes	Giant initials I, S, T, D placed far apart across a black screen, each starting a word; DESIGNERS rotated vertically at right and INTERNATIONAL on a diagonal (also touches Vertical Spine and Type on a Path). Kinetic, so state varies. Found via firecrawl agent (CSS Design Awards).
+Vertical Spine Type	web	See The Unseen	https://seetheunseen.co.uk/	no	Rotated nav labels down the left edge are small links, not display type.
+Type Perimeter Frame	web	Gotham Studio	https://gotham.studio/	no	Small rotated WORK/ABOUT/CONTACT on side edges only; centred headline. Not a perimeter frame.
+Vertical Spine Type	web	Building The Future	https://buildingthefuture.pt/	no	No rotated type in the current first screen.
+Vertical Spine Type	web	Prime Park Sessions	https://www.primeparksessions.com/	no	Site returned HTTP 500.
+Type on a Path	web	The Content Architecture	https://www.contentarchitecture.dev/	no	Spiral text panel did not render in capture (mid-load); gallery thumbnail shows spiral type at right.
+Vertical Spine Type	web	Archi Graphi	https://archi-graphi.fr/	no	No rotated type in current first screen.
+Vertical Spine Type	web	Lydia Amaruch	https://lydiaamaruch.com/	no	Collage of big type, no vertical spine.
+Vertical Spine Type	web	Kitamura Makura	https://www.kitamura1923.com/	no	Captured on loader screen.
+Vertical Spine Type	web	UP Forward	https://upforward.co.jp/	no	Small vertical Japanese tagline column, not full-height display spine.
+Vertical Spine Type	web	Misakigumi	https://www.misakigumi.com/	no	Large vertical Japanese headline (tategaki) mid-screen, not an edge spine; borderline.
+Shape-Mask Window	web	Sonder Counselling	https://www.sondergroup.ca/	no	Current hero is type only; only a faint circle shape.
+Shape-Mask Window	web	Baldwin Therapy Group	https://www.baldwintherapygroup.com/	no	Full-bleed sky photo, no masked shape.
+Shape-Mask Window	web	Balens Therapy	https://balenstherapy.com/	no	Full-bleed photo with cards.
+Shape-Mask Window	web	XZE Motion	https://xzecreative.com/	no	Centred headline, rectangular media.
+Script Ribbon	web	Mike McAlister	https://mikemcalister.com/	no	Condensed sans headline, no script.
+Script Ribbon	web	Tiago Fragoso	https://tiagofragoso.com/	no	Hand-lettering inside a small video frame, not a sweeping ribbon.
+Script Ribbon	web	Victoria Lavine	https://www.victorialavine.com/	no	Sticker collage; script name small. Has a slightly tilted marquee band (weak Type on a Path).
+Script Ribbon	web	This is FC88	https://www.thisisfc88.com/	no	Condensed display type, not script.
+Script Ribbon	web	Daniel Sun	https://danielsun.space/	no	Plain serif headline.
+Letter Scatter	web	Henri Heymans	https://henriheymans.com/	no	Words (not letters) of one small line spread across the width behind an Enter gate; weak.
+Letter Scatter	web	RXK Studio	https://rxkstudio.com/	no	Centred big headline.
+Letter Scatter	web	Local Studio	https://localstudio.fr/	no	Staggered big headline lines, letters not separated.
+Whisper Margins	web	Ivan Malopinsky	https://imsky.co/	no	Centred text column, not edge-anchored.
+Whisper Margins	web	stickbird.studio	https://stickbird.studio/	no	Central illustration plus big wordmark at bottom.
+Whisper Margins	web	SHM Studio	https://shm.studio/	no	Conventional hero.
+Type on a Path	web	KOTA	https://kota.co.uk/	no	Staggered big headline, not on a path.
+Bookend Type	web	Ortolan	https://ortolan.com.au/	no	Giant wordmark at the bottom only, over a full-bleed photo (bottom half of a bookend).
+Bookend Type	web	Haus	https://madeinhaus.com/	no	Centred display words, tiny edge text.
+Letter Scatter	web	National Student Show	https://nationalstudentshow.com/	no	Colour-block collage with one headline; letters not scattered.
+Letter Scatter	web	Obys Typography Principles	https://typographyprinciples.obys.agency/	no	One big word at top, letters together.
+Type on a Path	web	Unseen Studio	https://unseen.co/	no	Enter gate captured; no path type visible.
+Shape-Mask Window	web	Create with Mariah	https://createwithmariah.com/	no	Not checked (rate limit). Agent claim: arch-shaped photo masks on beige.
+Shape-Mask Window	web	Kerri Baker Pilates	https://www.kerribakerpilates.com/	no	Not checked (rate limit). Agent claim: circle and arch masks.
+Shape-Mask Window	web	Cerruti Real Estate	https://www.cerrutirealestate.com/	no	Not checked (rate limit). Agent claim: arch-masked portrait.
+Shape-Mask Window	web	Collab with Dom	https://collabwithdom.com/	no	Not checked (rate limit). Agent claim: oval-clipped portrait.
+Shape-Mask Window	web	Inspire Within Therapy	https://inspirewithintherapy.com/	no	Not checked (rate limit). Agent claim: circular portrait frames.
+Type on a Path	web	Studio Freight	https://www.studiofreight.com/	no	Not checked (rate limit). Agent claim, low confidence.
+Type on a Path	web	The Content Architecture	https://www.contentarchitecture.dev/	no	Gallery thumbnail shows a spiral of text at right; live capture was mid-load. Retry with longer wait.
+Letter Scatter	web	bleibtgleich	https://bleibtgleich.com/	no	Not checked. Minimal.gallery thumbnail shows bleibt / gleich split to bottom corners (word split rather than letters).
+Letter Scatter	web	Giorgos Papadakis	https://giorgospapadakis.com/	no	Not checked (rate limit). Gallery thumbnail shows giant fragmented G P letterforms.
+Whisper Margins	web	Graham McDonnell	https://greymac.com/	no	Not checked (rate limit). Gallery thumbnail: dark field, tiny text.
+Whisper Margins	web	Marina Suvorova	https://marinasuvorova.com/	no	Not checked (rate limit). Agent claim.
+Whisper Margins	web	Martin Stoleru	https://www.martinstoleru.com/	no	Not checked (rate limit). Agent claim.
+Bookend Type	web	Michael Wandelmaier	https://wandelmaier.com/	no	Not checked. Agent claim, low confidence.
+Type Perimeter Frame	print	A.M. Cassandre, Nord Express poster (1927)	https://collections.vam.ac.uk/item/O89673	yes	V&A record: text on the top, bottom and around the frame of the image.
+Type Perimeter Frame	print	Anon., Walker Brothers Carpets ad (1880)	https://fontsinuse.com/uses/24847/walker-brothers-carpets-ad-1880	yes	Fonts In Use tag "type as frame": type forms the border of the ad.
+Type Perimeter Frame	print	J.O. Barnard, Mauritius "Post Office" 1d stamp (1847)	https://commons.wikimedia.org/wiki/File:Mauritiuspostofficeissuestamp1847PD.JPG	unconfirmed	Lettering on all four sides around the portrait; stamps are the archetype.
+Type Perimeter Frame	print	Charles Bell, Cape of Good Hope triangular stamp (1853)	https://commons.wikimedia.org/wiki/File:Cape_Triangular_Postage_Stamp.jpg	unconfirmed	Lettering runs around all three edges, figure in the middle.
+Type Perimeter Frame	print	Fonts In Use tag: type as frame (collection)	https://fontsinuse.com/tags/7199/type-as-frame	yes	Browsable contemporary set.
+Shape-Mask Window	print	Curt Teich & Co., large-letter postcard "Greetings from Springfield, Ohio" (c.1930s-40s)	https://commons.wikimedia.org/wiki/File:Greetings_from_Springfield_Ohio_-_Curt_Teich_big_letter_postcard.jpg	yes	Photos inside letterform windows (letterform mask).
+Shape-Mask Window	print	Jan Tschichold, Die Frau ohne Namen (1927)	https://www.moma.org/collection/works/5754	partial	Photo bursts through a flat red circle.
+Shape-Mask Window	print	Studio Paul Andali / Alain Papazian, La Trinité 24/25 season (2024)	https://fontsinuse.com/uses/65095/la-trinite-24-25-season	unconfirmed	Fonts In Use tag "arches": arch-shaped image windows.
+Shape-Mask Window	print	E. McKnight Kauffer, Magicians Prefer Shell (1934)	https://collections.vam.ac.uk/item/O1037684	partial	Flat circles cut into a plain ground (colour, not photo).
+Shape-Mask Window	print	Fonts In Use tags: arches / image masking type	https://fontsinuse.com/tags/27696	yes	Browsable sets (also /tags/17593).
+Bookend Type	print	A.M. Cassandre, Nord Express (1927)	https://collections.vam.ac.uk/item/O89673	yes	Type bands top and bottom, image between (also perimeter).
+Bookend Type	print	Herbert Matter, Pontresina Engadin (1935)	https://www.moma.org/collection/works/5323	unconfirmed	Place name top, region bottom, skier between.
+Bookend Type	print	El Lissitzky, USSR Russische Ausstellung (1929)	https://www.moma.org/collection/works/6458	partial	Large USSR at top, date at bottom, photomontage between.
+Bookend Type	print	Polish/Swiss posters already in layouts/L07-bookend-type/3-wikimedia-commons (e.g. WKP Poznan 1929, Walter Cyliax Koch Optiker)	layouts/L07-bookend-type/3-wikimedia-commons/sources.tsv	yes	Ten checked Commons images in the existing folder.
+Vertical Spine Type	print	Armin Hofmann, Giselle, Basler Freilichtspiele (1959)	https://collection.cooperhewitt.org/objects/18673303	yes	GISELLE runs vertically down the left edge, dancer hung against it.
+Vertical Spine Type	print	Armin Hofmann, Giselle (Fonts In Use record)	https://fontsinuse.com/uses/1328/giselle-poster-basel-stadt-theater	yes	Same poster.
+Vertical Spine Type	print	Herbert Bayer, Kandinsky zum 60. Geburtstag (1926)	https://www.moma.org/collection/works/5104	unconfirmed	Rotated name as structural column.
+Vertical Spine Type	print	Enea Bortone, Neubad über Wasser halten (2021)	https://fontsinuse.com/uses/77630/neubad-ueber-wasser-halten-poster	unconfirmed	Fonts In Use tag "rotated type".
+Vertical Spine Type	print	Fonts In Use tag: rotated type	https://fontsinuse.com/tags/2755	yes	Browsable set.
+Whisper Margins	print	Richard Hamilton, The Beatles (White Album) sleeve (1968)	https://www.macba.cat/en/node/27579	yes	Blank white field; small embossed name and serial number near the edge.
+Whisper Margins	print	Kenya Hara, MUJI "Horizon" campaign (2003)	https://hara.ndc.co.jp/en/news/make-the-future-better-than-today/	unconfirmed	Near-empty field; edge type not confirmed.
+Whisper Margins	print	Dafi Kühne, Daylight poster (c.2020)	https://fontsinuse.com/uses/54530/daylight-poster	unconfirmed	Fonts In Use tag "small type".
+Whisper Margins	print	Fonts In Use tag: small type	https://fontsinuse.com/tags/4101	yes	Browsable set.
+Script Ribbon	print	Stefan Sagmeister, AIGA Detroit (1999)	https://www.moma.org/collection/works/102915	partial	Handwriting across a photographed body; not one single ribbon.
+Script Ribbon	print	Stefan Sagmeister, Lou Reed, Set the Twilight Reeling (1996)	https://sammlung.mak.at/en/collect/set-the-twilight-reeling_67816	unconfirmed	Script lettering over the face.
+Script Ribbon	print	Mary Banas, Mitski, Laurel Hell (2022)	https://fontsinuse.com/uses/45896/mitski-laurel-hell-album-art	unconfirmed	Handwritten title over a photo.
+Letter Scatter	print	Dafi Kühne, F-u-t-u-r-e poster (c.2020)	https://fontsinuse.com/uses/40887/f-u-t-u-r-e-poster	yes	Fonts In Use tag "scattered type": letters of one word spread across the sheet.
+Letter Scatter	print	Dafi Kühne, Tipoteca 1-25 (c.2020)	https://fontsinuse.com/uses/31399/tipoteca-1-25-poster	yes	Characters scattered.
+Letter Scatter	print	Theo van Doesburg & Kurt Schwitters, Kleine Dada Soirée (1922)	https://www.moma.org/collection/works/5533	partial	DADA letters/words in many orientations.
+Letter Scatter	print	F.T. Marinetti, Après la Marne, Joffre visita le front en auto (1915/1919)	https://www.moma.org/collection/works/7683	unconfirmed	Words-in-freedom page with dispersed letters.
+Letter Scatter	print	Fonts In Use tag: scattered type	https://fontsinuse.com/tags/9344	yes	Browsable set.
+Type on a Path	print	Guillaume Apollinaire, Il pleut (calligramme, 1916)	https://commons.wikimedia.org/wiki/File:Guillaume_Apollinaire_-_Calligramme_-_Il_pleut.png	yes	Letters run down slanted lines.
+Type on a Path	print	E. McKnight Kauffer, Magicians Prefer Shell (1934)	https://collections.vam.ac.uk/item/O1037684	yes	V&A: text running around a blue circle.
+Type on a Path	print	Vladimir & Georgii Stenberg, Man with a Movie Camera (1929)	https://www.moma.org/collection/works/217943	partial	Lettering spirals around the dancer.
+Type on a Path	print	El Lissitzky, Beat the Whites with the Red Wedge (1919)	https://commons.wikimedia.org/wiki/File:Beat_the_Whites_with_the_Red_Wedge.jpg	unconfirmed	Words set along the diagonals of wedge and circle.
+Type on a Path	print	Fonts In Use tags: type on a circle / type on a curve	https://fontsinuse.com/tags/4587	yes	Browsable sets (also /tags/3595).

@@ -1,0 +1,15 @@
+source	lens	query	filter	hits_out_of_10	notes
+taste-engine	name	index list portfolio, project list layout	-	1/10	only marjoebacus; "index list portfolio" returned image-grid portfolios (page_type=portfolio inferred)
+taste-engine	visual	full screen of text rows listing project, year, client and category in aligned columns with thin rules between, no hero image	-	6/10	hits: konstantin-grcic, firstchild, aitorbaigorri, holymotors, bpowell, watarigarasu
+taste-engine	structural	tabular index composition: dense rows and columns of entries with uniform row weight, hierarchy only by column position, images only on hover	-	1/10	"tabular" routed to pricing-table SaaS pages (page_type=collections); only bakkenbaeck team table
+taste-engine	corpustag	Monospace, Typography-Only, Tight/Dense, Uniform / Flat Hierarchy, Monochromatic, Left-Aligned, list-based index, Brutalism	dense_packed	2/10	dense_packed filter: konstantin-grcic, digitization; rest dense image grids / text walls
+taste-engine	tonelayout	cool archival insider portfolio: monochrome text-only index of projects in mono or grotesk at one size, rows separated by hairline rules, generous line rhythm	-	3/10	hits: aitorbaigorri, helioteles, estherjansma
+wikimedia-commons	print	railway timetable 19th century	-	2/24 (hits/viewed)	superseded by filetype:bitmap run
+wikimedia-commons	print	type specimen list	-	1/29 (hits/viewed)	typed specimen list (kept)
+wikimedia-commons	print	ledger page	-	6/28 (hits/viewed)	handwritten account ledgers in ruled columns; kept one
+wikimedia-commons	print	price list catalogue typography	-	0/30 (hits/viewed)	book covers
+wikimedia-commons	print	railway timetable filetype:bitmap	-	8/17 (hits/viewed)	WINNER: printed timetables = pure ledger composition (stations x times, rules, no image)
+wikimedia-commons	print	timetable 1900 filetype:bitmap	-	2/25 (hits/viewed)	mostly trolley maps/photos
+wikimedia-commons	print	price list catalogue filetype:bitmap	-	0/30 (hits/viewed)	illustrated seed catalogues
+wikimedia-commons	print	Bradshaw guide filetype:bitmap	-	1/22 (hits/viewed)	covers/maps; one timetable crop
+firecrawl	web-first-screen	see notes	-	7/8	scraped TE winners + experimentaljetset.nl (miss: not a list on first screen); bureau-borsche.com DNS fail. Hits: konstantin-grcic, digitization, firstchild, holymotors/services, bakkenbaeck/team, bpowell, watarigarasu

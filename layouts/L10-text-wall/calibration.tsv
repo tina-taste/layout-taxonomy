@@ -1,0 +1,12 @@
+source	lens	query	filter	hits_out_of_10	notes
+taste-engine	name	text wall layout, manifesto paragraph set at display size filling the page	none	3	hits: twocreate, wearegradient, einride. 'manifesto' pulls poster-headline sites (valiente, drivecapital, semplice)
+taste-engine	visual	homepage that is just one long paragraph of running prose in huge type filling the whole screen and cropping off the bottom, no image, no separate headline	none	3	WINNER (tie with name, better precision on prose). hits: wearegradient, newworld, einride. Misses are big-headline sites (big.tc, limbo) - engine conflates 'huge type' with display headlines
+taste-engine	structural	single full-width body-copy block at 5vw occupying most of the viewport as the hero, paragraph as the only hierarchy level, minimal nav in a corner	none	2	hits: melt, quadangles. Pulls dark minimal agencies with small centred text
+taste-engine	corpus-tag	Large-Scale Type Composition, Typographic, Text-Only hero, Editorial, Left-Aligned Stability, Minimal/Simple, Single Typeface System, Statement paragraph	layout=left_aligned_flush	2	hits: wearegradient, keithgreenbaum. Filter gives clean typographic portfolios but most lead with a short statement, not prose
+taste-engine	tone+layout	declarative intellectual voice-led studio site, neutral background, one grotesk or serif at large text size, the about statement paragraph fills the first screen	none	2	hits: melt, wearegradient. Tone words pull quiet serif 'about' pages with short statements
+commons	query	broadside text	none	2/24	Sons of Liberty 1765 broadside; Mencken/Sterling 1926 text panel
+commons	query	manifesto typography poster	none	0/18	Art Nouveau/Secession posters, archive placeholders
+commons	query	typographic poster text only	none	0/25	Swiss posters (one L09 hit) and book covers
+commons	query	proclamation broadside	none	3/23	Howe 1776 broadside, Jacobite 'By the King' proclamation, James I tobacco proclamation (prose as texture). Many others lose on a separate big 'PROCLAMATION' headline. Best query
+commons	query	broadside poem text	none	1/27	Hobart 1712 Latin verse broadside
+firecrawl	summary	2 web searches returned only listicles/gallery index pages; scraped 8 candidate sites	none	5/8	hits: wearegradient.net/about, newworld.inc/about, einride.tech/about, keithgreenbaum.com/about, melt.works. Misses: bakkenbaeck (statement + photo), lundgrenlindqvist (blank render), locomotive (preloader). About pages are where the wall lives, as spec predicts

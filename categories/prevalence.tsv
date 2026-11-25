@@ -1,0 +1,57 @@
+category	count	share_of_sample	example_brands
+01 Centred hero	74	16.8%	riiico, aircall, maze, templafy, squarespace
+02 Full-bleed media with overlaid text	83	18.8%	mosyle, openspace, sproutsocial, frontify, scale
+03 Product-screenshot hero	4	0.9%	middesk, cohere, commure, shares
+04 Search-led hero	0	0.0%	
+05 Carousel/slideshow hero	1	0.2%	micha
+06 Video-first full screen	0	0.0%	
+07 Split screen	12	2.7%	nominal, catalyst, isto, yucca, aurelienduny
+08 Map + list split	0	0.0%	
+09 Sidebar + content	2	0.5%	reflection, skykapital
+10 Feature rows (alternating image/text)	0	0.0%	
+11 Card grid	2	0.5%	justsmilemagazine, dandad
+12 Bento grid	1	0.2%	bankrate
+13 Contact sheet	1	0.2%	acquired
+14 Masonry/staggered grid	0	0.0%	
+15 Drifting photo grid	0	0.0%	
+16 Visible ruled grid	0	0.0%	
+17 Colour block mosaic	4	0.9%	saltarchitecture, boldscandinavia, boldscandinavia, afore
+18 Editorial broken grid	8	1.8%	wetheknot, laftekompaniet, snohetta, albert, thebrecon
+19 Magazine cover	3	0.7%	essesmag, kinfolk, roadbook
+20 News front page	3	0.7%	thedieline, underconsideration, theringer
+21 Long-form article column	1	0.2%	flighty
+22 Text-only index	2	0.5%	ogvstudio, pendo
+23 Text wall	2	0.5%	distyl, newworld
+24 Pricing/comparison columns	0	0.0%	
+25 Form-led single task	0	0.0%	
+26 Monumental type	34	7.7%	ollyo, crepinpetit, bennett-tea, royalbev, dianasseafood
+27 Big header + big footer	0	0.0%	
+28 Vertical spine type	0	0.0%	
+29 Corner-text frame	6	1.4%	8848, nohero, oker, bakkenbaeck, luziaconzeta
+30 Isolated object in void	5	1.1%	publicserv-ce, hims, mangochutney, tersa, manayerbamate
+31 Collage/layered	7	1.6%	kizen, apossible, thesunproject, cafe-robot, huehaus
+32 Floating archipelago	6	1.4%	scopecopenhagen, sciventures, odetterestaurant, theessential, krisztianeder
+33 Dashboard/app shell	0	0.0%	
+34 Desktop/OS window metaphor	0	0.0%	
+35 Immersive 3D scene	1	0.2%	ceciliaenergy
+[NEW] Left-aligned statement hero	62	14.1%	planhat, immuta, chillbillstudio, assemblycoffee, bykins
+[NEW] Text-left / visual-right hero	30	6.8%	intuit, apttus, element, maxio, wimpdecaf
+[NEW] Logo splash	10	2.3%	humanmade, makeitsimplestudio, dovetail, tuxkarma, room8group
+[NEW→merge] Two-column text split	3	0.7%	groth, functionhealth, twingate
+[NEW] Motif field	3	0.7%	globalmaritimeforum, profectum, tote
+[NEW, weak] Framed media on empty stage	3	0.7%	thefamilyreviews, grapheine, hueylightshop
+[unplaced] Illustrated scene	2	0.5%	prevint, maximatherapy
+[unplaced] Type on a path	1	0.2%	relajaelcoco
+[unplaced] Image triptych	1	0.2%	commonry
+[NEW, weak] Shape-mask window	1	0.2%	betterinvest
+Half-loaded / blocked (loader, blank, cookie wall, popup)	63	14.3%	prismic, simpplr, frankandoak, lestrangelondon, modefleur-007d6-git-a2bdc4-cofounder-customer-projects-7ff450a9
+[modifier tag] framedstage	1	0.2%	kinfolk
+[modifier tag] letterscatter	3	0.7%	coevalstudio, redbeecreative, analoguefoundation
+[modifier tag] motif	6	1.4%	heyjay, superhi, family, collastudio, b4e
+[modifier tag] overprint	8	1.8%	loftgarten, thekelsey, rocketweblabs, weareterritorial, elegantseagulls
+[modifier tag] script	1	0.2%	happycog
+[modifier tag] shapemask	3	0.7%	digivalet, nueve, rekorderstudios
+[modifier tag] stickerscatter	2	0.5%	cafe-robot, huehaus
+[modifier tag] typeonpath	1	0.2%	hims
+[modifier tag] typeperimeter	2	0.5%	common-coin, soundsright
+TOTAL unique first screens	441	100%	16 searches x top30 = 480, deduped by URL

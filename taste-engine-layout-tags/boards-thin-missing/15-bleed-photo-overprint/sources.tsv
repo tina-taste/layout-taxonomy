@@ -1,0 +1,13 @@
+file	brand	url	match	reason	search_id
+01-overstory.jpg	overstory	https://overstory.com/about-us	strong	A dark forest photo bleeds across the full fold with white headline and nav overprinted directly, no panel behind the type—exactly the look.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+02-off-trail.jpg	off-trail	https://www.off-trail.co/	strong	A full-bleed Antelope Canyon photo fills the screen with green headline and nav overprinted straight onto the image, no background panel.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+03-allconditionsmedia.jpg	allconditionsmedia	https://allconditionsmedia.com/	strong	The ocean surf photo fills the top fold with giant letters cut from it, though the black menu strip below slightly breaks the panel-free ideal.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+04-floodgate.jpg	floodgate	https://floodgate.com/	strong	A pale aerial ocean photo fills the hero with navy headline overprinted and no panel, though the white nav bar sits above the image.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+05-minerva.jpg	minerva	https://minerva.edu/	good	Dark hero with white serif headline overprinted, but the image band sits below and a white dropdown panel intrudes on the type.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+06-weareexample.jpg	weareexample	https://weareexample.com/	related	Huge dark type sits on a plain cream background with small inset photos; the landscape image only appears lower down, not as a full-bleed hero.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+07-ventureweb.jpg	ventureweb	https://www.ventureweb.net/	related	Flat dark charcoal background with overlapping white type and no photograph at all—this is a solid color hero, not a full-bleed image.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+08-drivecapital.jpg	drivecapital	https://drivecapital.com/	related	Pure black-and-cream typographic poster with no photography whatsoever, the opposite of a full-bleed image hero.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+09-lippincott.jpg	lippincott	https://lippincott.com/work/humane-world-for-animals	related	Flat sky-blue background with black serif type and no photograph, a solid-color hero rather than a full-bleed image.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+10-ueberbild.jpg	ueberbild	https://ueberbild.de/about	related	Stark white editorial layout with widely spaced serif type and no imagery at all, far from a photo hero.	dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+11-landscape.jpg	landscape	https://landscape.productions/	good		dc0ac6b4-0ee3-4ac9-b238-8bf923355df3
+12-roadbook.jpg	roadbook	https://roadbook.com/	good		dc0ac6b4-0ee3-4ac9-b238-8bf923355df3

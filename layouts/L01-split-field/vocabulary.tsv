@@ -1,0 +1,14 @@
+term	source_url	n_sources	notes
+split screen	https://qodeinteractive.com/magazine/split-screen-layout-in-use-best-examples/ ; https://www.mockplus.com/blog/post/split-screen-web-design ; https://medium.muz.li/split-screen-layout-in-use-20-best-examples-91778841136e ; https://www.pageprogressive.com/is-the-split-screen-design-right-for-you/ ; https://hokedesigns.com/split-screen-layouts-bold-color-blocking-web-design/	5+	The standard designer name. Also a Taste Engine corpus tag ("Split Screen" on krinskydesign, twntytwo, koal, liamforshort, landofride, anagram, quefor). Bare = 3-4/10 (r2)
+split-screen homepage	https://hokedesigns.com/split-screen-layouts-bold-color-blocking-web-design/ ; https://fireart.studio/blog/4-ways-to-design-a-perfect-split-screen-homepage/ ; https://matomo.org/blog/2022/10/homepage-design/	3	r3 bare 4/10, +clause 5/10
+vertical split screen	https://uxplanet.org/vertical-spilt-screen-design-trend-9866273fbbcf	1	r3 bare 3/10, +clause 6/10
+split-screen hero / split screen hero section	https://herogrids.com/layout/split-screen ; https://medium.muz.li/split-screen-layout-in-use-20-best-examples-91778841136e	2	r2 3/10; "hero" routes to landing pages
+split layout	https://www.unsection.com/layout/split ; https://webdesign.tutsplus.com/understanding-the-split-layout-in-web-design--webdesign-9551a	2	r2 2/10
+centrally divided layout	https://onepagelove.com/tag/centrally-divided-layout	1	One Page Love's own tag for this layout; r2 0/10 (engine reads as centred)
+side-by-side panels	https://www.pageprogressive.com/is-the-split-screen-design-right-for-you/	1	used to define split screen ("two side-by-side panels"); r3 bare 0/10 (panels=cards)
+split screen + colour blocking	https://hokedesigns.com/split-screen-layouts-bold-color-blocking-web-design/	1	"a full-bleed photo on one side, a solid brand color with clean text on the other" - near-verbatim visual test. r3 bare 3/10 (pulls colour-block mosaics)
+50/50 split hero	https://app.newform.community/blog/hero-section-ui-design-examples-2026	1	r2 4/10
+diptych (print)	https://foliodot.com/examples/layout/diptych	1	print/photo term; r2 4/10
+double-page spread (print)	-	0	print analogue; routes to magazine/editorial sites, r3 1/10
+two-panel layout	-	0	generic; r3 bare 2/10 (found new hit canaan), +clause 6/10
+half-and-half homepage	-	0	colloquial; r3 bare 4/10

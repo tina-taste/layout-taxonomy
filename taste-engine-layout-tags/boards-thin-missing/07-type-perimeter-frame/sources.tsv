@@ -1,0 +1,13 @@
+file	brand	url	match	reason	search_id
+01-panorama.jpg	panorama	https://en.panorama.space/	strong	Repeated 'PANORAMA' columns march down both vertical edges with words along the bottom, strongly evoking a text-framed perimeter treatment.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+02-educated--guess.jpg	educated--guess	https://educated--guess.com/about	good	Vertical stacked text and grid squares suggest edge structure, but the type doesn't form a continuous border wrapping all four sides.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+03-creasenso.jpg	creasenso	https://www.creasenso.com/	related	A single rotated 'senso' runs down the right edge, but the other three sides are plain, so no continuous four-edge border forms.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+04-jasonbergh.jpg	jasonbergh	https://jasonbergh.com/	related	Faint vertical marks hint at edge-aligned text columns, but the near-black screen shows no legible continuous border frame.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+05-andrewleguay.jpg	andrewleguay	https://andrewleguay.com/	related	Dense scattered typography clusters in a chaotic cloud rather than running cleanly around the screen's four perimeter edges.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+06-wearegradient.jpg	wearegradient	https://wearegradient.net/about	related	A centered block of white serif body text on black with no edge treatment; nothing wraps the perimeter as a typographic frame.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+07-designbydisruption.jpg	designbydisruption	https://designbydisruption.com/project/tbwa-worldwide-brand-refresh	related	Standard top nav plus left headline and right paragraph column; no text runs along the screen's edges at all.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+08-ribant.jpg	ribant	https://ribant.co/	related	Large elegant serif logotype centered with corner labels; no flowing text wraps the four edges.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+09-torebentsen.jpg	torebentsen	https://torebentsen.com/	related	A centered blurred portrait with tiny corner labels; nothing resembles continuous text framing the screen edges.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+10-quadangles.jpg	quadangles	https://quadangles.com/about	related	A bold centered uppercase paragraph on black with top nav; no perimeter text frame treatment is present.	fdbc05a3-5475-4f01-91e4-0559dc4f2277
+11-bilgikaran.jpg	bilgikaran	https://bilgikaran.com/	related		fdbc05a3-5475-4f01-91e4-0559dc4f2277
+12-linear.jpg	linear	https://linear.app/change	related		fdbc05a3-5475-4f01-91e4-0559dc4f2277

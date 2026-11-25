@@ -1,0 +1,13 @@
+file	brand	url	match	reason	search_id
+01-konstantin-grcic.jpg	konstantin-grcic	https://konstantin-grcic.com/	strong	Exactly the brief: full-screen stacked project rows with name/category/year columns, no hero image, clean tabular index composition.	7f06275f-1c90-4e66-924e-472140910402
+02-digitization.jpg	digitization	https://digitization.wiki/	strong	Full-screen list of numbered rows with name and category columns, though ornate serif and glow deviate from plain rule-lined tables.	7f06275f-1c90-4e66-924e-472140910402
+03-dia.jpg	dia	https://dia.tv/	good	Full-screen text-only multi-column layout, no hero image, but reads as running paragraphs rather than ruled project rows.	7f06275f-1c90-4e66-924e-472140910402
+04-zissou.jpg	zissou	https://zissou.com/	related	Image gallery of scattered photos, not a ruled row-and-column index; wrong imagery-heavy register.	7f06275f-1c90-4e66-924e-472140910402
+05-gunnaris.jpg	gunnaris	https://gunnaris.me/	related	Thumbnail grid of product/campaign imagery with top rule; too image-driven, not a text-column project table.	7f06275f-1c90-4e66-924e-472140910402
+06-poster-tribune.jpg	poster-tribune	https://www.poster-tribune.ch/	related	Headline plus grid of poster thumbnails; structured but image-based, not a text row/column index.	7f06275f-1c90-4e66-924e-472140910402
+07-im-burrow.jpg	im-burrow	https://im-burrow.com/	related	Big headline plus a dense grid of colorful photo thumbnails, the opposite of a rule-lined text table.	7f06275f-1c90-4e66-924e-472140910402
+08-wearefloc.jpg	wearefloc	https://wearefloc.com/	related	Massive display-type hero on black with empty space below, no table rows or columns at all.	7f06275f-1c90-4e66-924e-472140910402
+09-collectif-yay.jpg	collectif-yay	https://www.collectif-yay.com/	related	Blank white screen offers no visible table, rows, or columns to assess.	7f06275f-1c90-4e66-924e-472140910402
+10-leilacicic.jpg	leilacicic	https://www.leilacicic.com/	related	Large fashion photography fills the fold; no index list or columned table structure.	7f06275f-1c90-4e66-924e-472140910402
+11-varda.jpg	varda	https://varda.com/careers	strong		7f06275f-1c90-4e66-924e-472140910402
+12-swindledpodcast.jpg	swindledpodcast	https://swindledpodcast.com/	good		7f06275f-1c90-4e66-924e-472140910402

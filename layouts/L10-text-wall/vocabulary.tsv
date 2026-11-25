@@ -1,0 +1,11 @@
+term	source_url	n_sources	notes
+big type / large type	https://www.are.na/eda-bilgi/layout-big-type	14	Are.na: 'big type container' (1484), 'Layout: Big Type' (91), 'Website: Large Type' (55), 'Typography: Large Type' (193) + ~10 more. Very common, but means display headlines, not prose
+wall of text / walls of text	https://www.are.na/atharwa/walls-of-text	5	Are.na: '⎊ walls of text' (2496), 'Wall of Text' (149, 28, 26). On the general web it is pejorative UX language (empathysites, mozello, prototyp.digital)
+wall text	https://www.are.na/ashley-george/wall-text-nw3aoytr2da	4	Museum term for prose printed on gallery walls; Are.na channels (83, 60, 54). Strong conceptual match (prose as architecture) but untested
+text-only websites	https://www.are.na/elliott-cost/text-only-websites	3	Are.na (66, 21) + One Page Love 'text-only' tag (73 sites). Tested r2 = 2
+type only	https://www.are.na/cem/type-only-u9qj0jiqm8k	10	Are.na: many 'Type only' channels (102, 44, 29, 16...). Means no-image typography generally
+paragraph text / long page - single paragraph	https://www.are.na/minhye-c/long-page-single-paragraph	3	Are.na: 'Paragraph text' (140), 'long page ⎯ single paragraph' (47), 'Paragraph as logo'
+text as image / type-as-image	https://www.are.na/annemarie-wadlow/text-as-image-l2aazjrkade	3	Are.na: 'text as image' (54), 'GYLF large, type-as-image' (17), 'image as text' (127)
+text block	https://www.are.na/illest-villian/text-block-4oy8jhkvffu	4	Are.na: 'Text Block' (26, 20), 'the text block blocking epiphany' (193)
+broadside / proclamation	https://en.wikipedia.org/wiki/Broadside_(printing)	2	Print ancestor (r1 commons 'proclamation broadside' 3/23 best); r2 tested = 1
+manifesto	https://onepagelove.com/section/manifesto	2	One Page Love 'manifesto' section - tested r2 = 0 (means headline posters)

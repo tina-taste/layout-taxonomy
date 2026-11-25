@@ -1,0 +1,19 @@
+source	lens	query	filter	hits_out_of_10	notes
+taste-engine	name	split screen layout	-	4/10	hits: salvalopez, twntytwo, krinskydesign, ever-live-here; rest mosaics/colour-block
+taste-engine	visual	page split into two equal halves, full-height photo on the left, flat saturated colour field with large headline on the right	-	4/10	hits: ever-live-here, gothamgreens, liamforshort, koal; misses full-bleed or inset-photo heroes
+taste-engine	structural	two-column 50/50 viewport division, image region and type region of equal weight separated by a single vertical cut line	-	5/10	hits: twntytwo, gothamgreens, krinskydesign, paireyewear, ever-live-here; "Split Screen" tag drives recall
+taste-engine	corpustag	Split Screen, Full-Bleed photography, Poster / Hero-Centric, bold grotesk, flat colour block, editorial	asymmetric_broken_grid	0/10	asymmetric_broken_grid filter pulled colour-block mosaics/collage (zukunft, futuresnoops) - wrong filter for a 2-field split
+taste-engine	tonelayout	confident graphic editorial-commercial split screen: saturated flat colour half against full-bleed photography half, grotesk display headline aligned to the cut	-	3/10	hits: thisisace, blaedagency, thomasmonavon; "saturated flat colour" pulled poster-type brands
+wikimedia-commons	print	diptych poster two halves	-	0/0 (hits/viewed)	no results
+wikimedia-commons	print	Rodchenko poster	-	0/2 (hits/viewed)	scholarly PDFs
+wikimedia-commons	print	Lissitzky poster	-	1/21 (hits/viewed)	Beat the Whites with the Red Wedge = two contrasting fields but cut is diagonal/curved (borderline); rest are logos derived from it
+wikimedia-commons	print	Polish poster school	-	0/26 (hits/viewed)	full-text search hit PDF book scans
+wikimedia-commons	print	book cover two colour split	-	0/30 (hits/viewed)	plain cloth bindings
+wikimedia-commons	print	Bauhaus book cover Moholy-Nagy	-	0/6 (hits/viewed)	
+wikimedia-commons	print	Herbert Matter poster	-	0/26 (hits/viewed)	book covers
+wikimedia-commons	print	Gustav Klutsis poster	-	0/25 (hits/viewed)	photomontage with diagonal splits, never one straight equal cut
+wikimedia-commons	print	Zenit magazine cover	-	0/16 (hits/viewed)	
+wikimedia-commons	print	photomontage poster filetype:bitmap	-	0/18 (hits/viewed)	flower photo grids
+wikimedia-commons	print	magazine cover 1930s filetype:bitmap	-	0/10 (hits/viewed)	TIME covers (frame, not split)
+wikimedia-commons	print	Lissitzky filetype:bitmap	-	0/24 (hits/viewed)	artworks/photos
+firecrawl	web-first-screen	see notes	-	5/10 sites scraped	firecrawl_search (generic + gallery-domain) returned listicles/gallery pages only, no usable live URLs; scraped Taste Engine winners directly. Hits: koal, salvalopez, thomasmonavon, blaedagency, gothamgreens. Misses: liamforshort/krinsky/ace/twntytwo changed or not split live; paireyewear blocked by popup

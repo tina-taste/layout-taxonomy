@@ -1,0 +1,6 @@
+file	source_url	brand_or_site	query
+01-koal-ch.png	https://koal.ch/	koal-ch	direct scrape of candidate from Taste Engine winners (firecrawl_search returned only listicles/galleries)
+02-salvalopez-com.png	https://salvalopez.com/	salvalopez-com	direct scrape of candidate from Taste Engine winners (firecrawl_search returned only listicles/galleries)
+03-thomasmonavon-com.png	https://thomasmonavon.com/	thomasmonavon-com	direct scrape of candidate from Taste Engine winners (firecrawl_search returned only listicles/galleries)
+04-blaedagency-com.png	https://blaedagency.com/	blaedagency-com	direct scrape of candidate from Taste Engine winners (firecrawl_search returned only listicles/galleries)
+05-gothamgreens-com_careers.png	https://gothamgreens.com/careers	gothamgreens-com_careers	direct scrape of candidate from Taste Engine winners (firecrawl_search returned only listicles/galleries)

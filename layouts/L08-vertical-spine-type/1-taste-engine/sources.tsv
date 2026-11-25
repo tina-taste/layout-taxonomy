@@ -1,0 +1,5 @@
+file	source_url	brand_or_site	query
+01-briganti.jpg	https://briganti.works/	briganti	name: vertical spine typography, rotated 90 degree wordmark running full height as a column
+02-fabianfallend.jpg	https://fabianfallend.com/	fabianfallend	corpus-tag [layout=asymmetric_broken_grid]: Vertical / Rotated Typography, Broken Grid, Expressive Typographic, Strong Hierarchy, edge-anchored wordmark (also visual)
+03-betterknown.jpg	https://betterknown.com.au/en-au/about	betterknown	name / visual / structural (returned by all three)
+04-sick.jpg	https://sick.agency/	sick	corpus-tag [asymmetric_broken_grid] (also surfaced by L07 corpus-tag query)

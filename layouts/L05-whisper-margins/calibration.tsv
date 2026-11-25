@@ -1,0 +1,12 @@
+source	lens	query	filter	hits_out_of_10	notes
+taste-engine	name	whisper margins: corner-anchored tiny type framing an empty page, gallery-minimal frame layout	none	3	eminente, les-graphiquants, nadinegoepfert (first-screen captured before image load)
+taste-engine	visual	almost blank white page with four tiny text fragments in the corners: name top left, menu top right, year bottom left, email bottom right, empty centre	none	5	WINNER. les-graphiquants, nadinegoepfert, eminente, doji, pendo. Several hits are only empty because hero media had not loaded in the corpus screenshot
+taste-engine	structural	inverted hierarchy: large empty central field, all content in small edge-anchored text blocks at the four corners, single small type size	none	3	pendo, reframed, neutral-studio (dark grounds); "inverted hierarchy" also pulls big-type pages
+taste-engine	corpus-tag	Centered Void, Generous/Expansive, Uniform / Flat Hierarchy, Monospace, Minimalist, Corner Navigation, Gallery-Spare	layout=generous_whitespace	2	neutral-studio, pendo; tag vocabulary pulls dark monospace dev portfolios
+taste-engine	tone+layout	hushed conceptual gallery site, off-white ground, tiny grotesk text pushed to the corners and edges around a vast empty centre, no colour	none	2	eminente, pendo; tone words pull editorial serif-headline portfolios
+firecrawl	summary	web search "minimal artist website almost blank page name corners siteinspire" + siteinspire minimal-art list + winning TE phrasing; 12 live scrapes	n/a	3/12 scraped	Hits: doji, neutral-studio, reframed. Live scrapes of les-graphiquants, pendo, nadinegoepfert, eminente show that hero media loads and fills the void, so they FAIL live. Siteinspire minimal-art picks (jonpilkington, emitakahashi, villarejoigarcia, lambert-lambert) all missed
+commons	query	Swiss poster typography	n/a	0/9	Illustrated historical posters (Swiss NL collection) - all full-bleed image + headline
+commons	query	exhibition invitation card	n/a	0/8	Invitations are centred text blocks; McMinnville 1909 card has tiny bottom-corner text but a centred body (near miss)
+commons	query	concrete poetry	n/a	0/4	Calligrammes/shaped text are centred, not edge-anchored
+commons	query	minimalist poster white	n/a	0/7	Returns minimalist landscape photos and matchbox labels, not layouts
+commons	query	letterhead	n/a	0/25	Historical letterheads are ornate filled invoices; Seth Siegelaub query returned 1 irrelevant file

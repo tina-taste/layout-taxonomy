@@ -1,0 +1,13 @@
+file	brand	url	match	reason	search_id
+01-fabianfallend.jpg	fabianfallend	https://fabianfallend.com/	strong	Giant rotated 'FABIAN'/'FALLE' wordmarks run full height along both left and right edges, exactly the vertical-spine look you want.	7d038850-6296-463e-9aa0-4e0052c61383
+02-non-linear.jpg	non-linear	https://non-linear.studio/	strong	You get rotated 'Non' on the left edge and 'Studio' as a vertical spine on the right running full height, matching the brief well.	7d038850-6296-463e-9aa0-4e0052c61383
+03-danielspatzek.jpg	danielspatzek	https://danielspatzek.com/	good	Chaotic collage has vertical rotated letters stacked at edges, but it's cluttered rather than a clean spine wordmark.	7d038850-6296-463e-9aa0-4e0052c61383
+04-gracestudio.jpg	gracestudio	https://gracestudio.se/	related	Big horizontal 'GRACE.' wordmark fills the top but the type runs flat, not as a vertical edge spine.	7d038850-6296-463e-9aa0-4e0052c61383
+05-andrewleguay.jpg	andrewleguay	https://www.andrewleguay.com/	related	Some rotated words float at top but they're small scattered labels, not a full-height spine along an edge.	7d038850-6296-463e-9aa0-4e0052c61383
+06-match.jpg	match	https://www.match.studio/	related	Bold horizontal 'MATCH STUDIO' type dominates but runs flat, lacking any rotated vertical edge spine.	7d038850-6296-463e-9aa0-4e0052c61383
+07-torebentsen.jpg	torebentsen	https://torebentsen.com/	related	Centered blurred portrait with small horizontal serif logo and no vertical spine, wrong look entirely.	7d038850-6296-463e-9aa0-4e0052c61383
+08-bindery.jpg	bindery	https://bindery.co/	related	Just a tiny centered horizontal wordmark on cream; no rotated type or edge spine at all.	7d038850-6296-463e-9aa0-4e0052c61383
+09-yourcreative.jpg	yourcreative	https://yourcreative.com.au/	related	Large horizontal script logo centered, no vertical rotated typography anywhere.	7d038850-6296-463e-9aa0-4e0052c61383
+10-callmelord.jpg	callmelord	https://callmelord.com/	related	Bold horizontal headline on orange with no rotated or vertical edge typography.	7d038850-6296-463e-9aa0-4e0052c61383
+11-codytownsend.jpg	codytownsend	https://www.codytownsend.com/	good		7d038850-6296-463e-9aa0-4e0052c61383
+12-anagram.jpg	anagram	https://anagram.club/	good		7d038850-6296-463e-9aa0-4e0052c61383

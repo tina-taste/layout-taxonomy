@@ -1,0 +1,9 @@
+file	source_url	brand_or_site	query
+01-pressplayontape.jpg	https://pressplayontape.studio/	pressplayontape	search_id 61497c48-8ce4-466c-a435-5b53043c2055 (name lens)
+02-memphis.jpg	https://memphis.it/en	memphis	search_id 61497c48-8ce4-466c-a435-5b53043c2055 (name lens)
+03-quefor.jpg	https://www.quefor.com/	quefor	search_id 61497c48-8ce4-466c-a435-5b53043c2055 (name lens)
+04-saltarchitecture.jpg	https://saltarchitecture.nz/	saltarchitecture	search_id edba2a2f-834d-433e-b050-6777d36bdd27 (struct lens)
+05-geist.jpg	https://geist.co/	geist	search_id edba2a2f-834d-433e-b050-6777d36bdd27 (struct lens)
+06-fora-concept.jpg	https://fora-concept.com/	fora-concept	round2 search_id 70cde2a5-a408-441c-a953-e743fc7b4a55 (screen-short: screen split into four large flat colour rectangles of different sizes)
+07-jmtbusinessmanagement.jpg	https://jmtbusinessmanagement.com/	jmtbusinessmanagement	round2 search_id d6c7f9d0-c30a-4ec0-9ff0-4338d1d1fabe (screen-medium)
+08-innostart.jpg	https://innostart.framer.website/	innostart	round3 search_id d3510ce2-8f99-447a-ae5f-ff65cbaa48e2 (term+clause: color blocking: screen split into four large flat colour rectangles of different sizes); also returned by grid of colour blocks (bare) and colour-blocked grid (+clause). Borderline: pastel panels with black rules

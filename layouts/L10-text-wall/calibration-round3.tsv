@@ -1,0 +1,9 @@
+kind	query	hits_out_of_10	new_hits	notes
+bare	wall of text	2	index-space	wearegradient + index-space (new: large serif paragraph is the hero, map illustration secondary). Engine set page_type=blog; rest about pages with small copy (laneandco, amplify, lightmatter). search_id 058e5850
+term+clause	wall of text: one long paragraph of large text filling the whole screen, cut off at the bottom edge	4	none	wearegradient, quadangles, twocreate, einride. search_id 9d2c5a18
+bare	paragraph text	0	none	SaaS/fintech about pages with small centred copy (purs, craft, hallow, kinde). search_id d73437a5
+term+clause	big paragraph text: one long paragraph of large text filling the whole screen, cut off at the bottom edge	3	none	wearegradient, quadangles, einride; sainturbain/boldscandinavia are short statements. search_id 5e2dd67f
+bare	big type	0	none	giant display headlines (big.tc, chriswilcock, socialhouseinc, drivecapital, helloelva) - 'big type' = headline to the engine. search_id 561cfb58
+term+clause	big type: one long paragraph of large text filling the whole screen, cut off at the bottom edge	4	doubledayandcartwright	doubledayandcartwright/about (new), wearegradient, einride, quadangles. search_id 36b3a062
+bare	text as image	0	none	poster/display-type studios (drivecapital, localstudio, wonjyou, spotheroz). search_id a33d0d3f
+term+clause	text as image: one long paragraph of large text filling the whole screen, cut off at the bottom edge	5	none	wearegradient, einride, twocreate, quadangles, wideeye. Below r2 best (screen-medium 6). search_id e125aecc

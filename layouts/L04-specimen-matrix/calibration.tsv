@@ -1,0 +1,12 @@
+source	lens	query	filter	hits_out_of_10	notes
+taste-engine	name	specimen grid contact sheet typology archive of identical product photos	none	2	Pulled e-commerce collection pages (3-6 big product cards); "product photos" drags toward shops. Hits: binu-binu, benmingo
+taste-engine	visual	edge-to-edge grid of uniform same-size thumbnails of objects on white with tiny labels under each, nothing else above the fold	none	4	WINNER. benmingo, essesi, edeani, celiamahiou; pulls portfolio/archive homepages
+taste-engine	structural	flat hierarchy uniform matrix of equal cells, regular rows and columns with even gutters, no hero, minimal captions	none	2	benmingo, zissou; rest are Swiss portfolio/shop grids with too few cells
+taste-engine	corpus-tag	Grid-Based Strict, Image Grid, Catalogue, Neutral, Small Grotesk, Archive	layout=grid_based_strict	2	benmingo, binu-binu; filter returns mostly e-commerce collection pages with 3-6 large cards
+taste-engine	tone+layout	deadpan typological collector archive: uniform grid of consistently lit same-crop object photos on neutral ground, small grotesk captions	none	2	essesi, benmingo; tone words pull "gallery-spare" single-object stores (lottaagaton, standardequipment)
+firecrawl	summary	web search "photographer portfolio homepage grid of uniform thumbnails archive index typology" + siteinspire minimal-art list + own knowledge; 8 live scrapes	n/a	4/8 scraped	Hits: supreme.com shop-all, benmingo, essesi, edeani. Misses: museumdepartment (hero type), phosphoricons (marketing hero), emojipedia (page chrome), zissou (now single image). Web search returns listicles only
+commons	query	type specimen sheet	n/a	0/9	Herbarium "type specimens" and single type-specimen sheets dominate; glyph charts are Motif Field, not image matrix
+commons	query	contact sheet photographs	n/a	16/24	WINNER. Film contact sheets are literally the style; 8 kept. Corpus dominated by Reagan White House Photo Office sheets (public domain)
+commons	query	herbarium specimens grid	n/a	0/3	Returns single herbarium sheets, not grids
+commons	query	catalogue plate buttons	n/a	0/12	Museum object photos of single button pairs; 1890s fashion catalogue plates are mixed-size figures
+commons	query	Bernd Hilla Becher	n/a	0/14	Becher typology grids are not freely licensed; only exhibition shots + homage singles. "automotive c-pillar typology" is a 3x3 (9 cells) near miss

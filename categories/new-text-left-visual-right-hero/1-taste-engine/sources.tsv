@@ -1,0 +1,7 @@
+file	source_url	brand_or_site	query
+01-intuit.jpg	https://intuit.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/93192233-3338-56bd-b10a-f233f8714162.jpg)	intuit	discovery sample:  website
+02-element.jpg	https://element.io/en/about (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/8dcfcec9-311c-587f-acba-0900ac770a76.jpg)	element	discovery sample:  website
+03-medium.jpg	https://medium.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/47a4bb79-a516-5d4e-b9f6-82f4b228e447.jpg)	medium	discovery sample: company homepage/architecture
+04-color.jpg	https://color.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/f6980b70-abfc-5430-a372-0dc9fe24580a.jpg)	color	discovery sample: company homepage/media
+05-backbase.jpg	https://backbase.com/about (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/e07620f5-688c-5848-ad47-0780c965cbf8.jpg)	backbase	discovery sample: company homepage/healthcare
+06-gusto.jpg	https://gusto.com/product (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/0a59925f-2e55-5a25-a30a-38f9ff5b0ed1.jpg)	gusto	headline and buttons on the left, illustration on the right, white background

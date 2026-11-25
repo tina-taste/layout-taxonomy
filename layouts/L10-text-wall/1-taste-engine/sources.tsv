@@ -1,0 +1,15 @@
+file	source_url	brand_or_site	query
+01-wearegradient.jpg	https://wearegradient.net/about	wearegradient	search_id 6d2c723a-183e-41b5-bef0-ecec77a1712c (name lens)
+02-newworld.jpg	https://newworld.inc/about	newworld	search_id cb1c99b4-90ce-4000-988b-7230c6328563 (visual lens)
+03-einride.jpg	https://einride.tech/about	einride	search_id 6d2c723a-183e-41b5-bef0-ecec77a1712c (name lens)
+04-keithgreenbaum.jpg	https://keithgreenbaum.com/about	keithgreenbaum	search_id d8484bb4-bb6b-4443-bb57-73055bcc315e (tag lens)
+05-melt.jpg	https://melt.works/	melt	search_id 38edeeda-4bed-4f9f-a947-0594c1afeecf (struct lens)
+06-twocreate.jpg	https://twocreate.com/about	twocreate	search_id 6d2c723a-183e-41b5-bef0-ecec77a1712c (name lens)
+07-quadangles.jpg	https://quadangles.com/about	quadangles	search_id 38edeeda-4bed-4f9f-a947-0594c1afeecf (struct lens)
+08-garcy.jpg	https://garcy.studio/about-us	garcy	round2 search_id 9d4f1c26-31fe-4464-8d4f-dc9b900fc65c (alt-name: text heavy website design)
+09-studyhall.jpg	https://studyhall.design/about	studyhall	round2 search_id cc1901d4-ea70-47fe-b1a9-9829dc8db8c5 (round-1 visual query rerun)
+10-wideeye.jpg	https://wideeye.co/about-us	wideeye	round2 search_id bd833b49-ce50-448f-8790-4574a5667e0d (screen-medium)
+11-madebymad.jpg	https://madebymad.co/about-us	madebymad	round2 search_id f047d593-9fa5-4f02-9698-089f189194e4 (tag-mined; captured mid fade-in)
+12-we-rad.jpg	https://we-rad.com/about	we-rad	round2 search_id bd833b49-ce50-448f-8790-4574a5667e0d (screen-medium)
+13-index-space.jpg	https://index-space.org/	index-space	round3 search_id 058e5850-f0c7-400f-8cea-92252dce4a81 (bare: wall of text); large serif paragraph fills top 2/3, map illustration secondary below
+14-doubledayandcartwright.jpg	https://doubledayandcartwright.com/about	doubledayandcartwright	round3 search_id 36b3a062-32a8-4c5b-8225-3f4198981472 (term+clause: big type: one long paragraph of large text filling the whole screen, cut off at the bottom edge); first surfaced by L08 query vertical wordmark (5eb6b41c)

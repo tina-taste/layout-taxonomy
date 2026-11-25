@@ -1,0 +1,7 @@
+kind	query	hits_out_of_10	new_hits	notes
+bare	color blocking	2	none	pressplayontape, quefor; rest colour-per-section sites (afore, thecape, callmelord, maisonthats, earlydog, weareterritorial). search_id a3e985bd
+term+clause	color blocking: screen split into four large flat colour rectangles of different sizes	5	innostart	quefor, saltarchitecture, geist, pressplayontape + innostart (new, borderline: pastel pink/lavender panels + photo panel, black rules). Ties r2 best (5). search_id d3510ce2
+bare	grid of colour blocks	5	(nathan, borderline - not added)	pressplayontape, quefor, fora-concept, innostart, nathan.tokyo (borderline: dense mosaic of flat tiles, >5 panels). BEST BARE TERM so far for L09 (r1/r2 bare names max 3). search_id 4193b201
+term+clause	grid of colour blocks: screen split into four large flat colour rectangles of different sizes, no gaps	5	none	fora-concept, quefor, geist, saltarchitecture, pressplayontape; misses euphemia (single red intro screen), fal (mid-load), cubist (rounded cards). search_id 8c5590cd
+bare	colour-blocked grid	3	none	pressplayontape, quefor, saltarchitecture; rest card grids (render, mux, sequoiacap, reown). search_id 52d9df2c
+term+clause	colour-blocked grid: screen split into four large flat colour rectangles of different sizes	5	none	fora-concept, quefor, innostart, geist, saltarchitecture. search_id cedfc9a1

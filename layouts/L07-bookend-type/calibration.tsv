@@ -1,0 +1,15 @@
+source	lens	query	filter	hits_out_of_10	notes
+taste-engine	name	bookend typography layout, giant wordmark header and giant wordmark footer framing the page	none	0	Returned big-type agency sites; at most a footer wordmark (ostermoor, newworld) or header wordmark, never both
+taste-engine	visual	huge edge-to-edge word across the top of the screen and another huge word across the bottom, photo sandwiched in between	none	0	Big headline heroes (nomophobia, weareexample, visualdomain); none bracketed top+bottom
+taste-engine	structural	three horizontal zones: oversized display type band top, framed content middle, oversized display type band bottom, type bleeding off the sides	none	1	pressplayontape (PRESS / PLAY top, TAPE bottom, colour band between); area17 2021/2022 is monumental fill, not bookend
+taste-engine	corpus-tag	Poster / Hero-Centric, Full-Bleed giant wordmark, Strong Hierarchy, oversized footer wordmark	layout=overlapping_layered	0	Maximalist collage sites; sick.agency surfaced here but is an L08 (vertical spine) hit
+taste-engine	tone+layout	loud poster-like brand-forward site, heavy condensed grotesk wordmark spanning full width at top and bottom, high contrast with one bright accent colour, image between	none	1	pressplayontape again; tone right everywhere (wonjyou, localstudio, callmelord) but structure wrong
+firecrawl	summary	4 web searches (hero oversized wordmark top+bottom; awwwards giant footer wordmark; siteinspire festival/big-type; vertical text) + 18 scrapes	n/a	1/18	Web search returns listicles/how-tos, not sites. Only pressplayontape passes live; ilcapoproduction (logo top, wordmark bottom) and lydiaamaruch (stacked type wall) rejected
+commons	print	poster typography swiss	n/a	3/27	Nestlé Farine lactée, L'Art Polonais, Tropon
+commons	print	Müller-Brockmann poster	n/a	0/9	Swiss modernist posters are asymmetric, not bookended
+commons	print	konzert plakat typografie	n/a	0/0	no results
+commons	print	playbill theatre poster 19th century	n/a	0/5	mostly book scans
+commons	print	polish poster typography	n/a	2/28	WKP Poznań 1929, Związek Plastyków (Lviv)
+commons	print	Ludwig Hohlwein Plakat	n/a	0/15	many top+bottom text posters but are NS-era propaganda; excluded (Hilf kämpfen / Nicht spenden would pass structurally)
+commons	print	affiche lithographie 1900 typographie	n/a	3/30	Cirque d'Hiver, Saturnin Fichet, Pezon ménagerie; 19th-c. French affiches are a rich vein
+commons	print	Jan Tschichold poster	n/a	2/7	Cyliax posters KOCH Optiker Zürich, CHANDLER Merkur (strong bookend)

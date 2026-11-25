@@ -1,0 +1,16 @@
+source	lens	query	filter	hits_out_of_10	notes
+taste-engine	name	vertical spine typography, rotated 90 degree wordmark running full height as a column	none	2	briganti (BRIGANTI full height left edge, best hit), betterknown (rotated About column)
+taste-engine	visual	giant sideways text running down the left edge of the page, content placed beside it	none	2	betterknown, fabianfallend
+taste-engine	structural	one full-height vertical type column fixed at the viewport edge as structural anchor, remaining content arranged in columns against it	none	1	betterknown only; rest are Swiss-grid studios
+taste-engine	corpus-tag	Vertical / Rotated Typography, Broken Grid, Expressive Typographic, Strong Hierarchy, edge-anchored wordmark	layout=asymmetric_broken_grid	2	fabianfallend (FALLEND full height right), sick (rotated COMMERCE+COMM right edge); non-linear has rotated words but half-height, rejected
+taste-engine	tone+layout	bold editorial cultural-event site, condensed grotesk title rotated vertically down the full height of the edge, flat colour, strong contrast	none	0	Event/festival sites returned, none with a spine; tone vocabulary overwhelms layout
+firecrawl	summary	vertical-text web searches (awwwards, siteinspire, speckyboy list, webflow gallery) + 10 candidate scrapes	n/a	4/10	All 4 live hits are captures of Taste Engine hits (briganti, fabianfallend, betterknown, sick). Search-derived candidates (non-linear, kwokyinmak, archi-graphi) failed
+commons	print	vertical text poster typography	n/a	0/25	book covers/scans only
+commons	print	poster rotated lettering constructivist	n/a	0/0	no results
+commons	print	Wim Crouwel poster	n/a	0/2	thumbs not usable
+commons	print	book spine typography	n/a	0/28	literal book spines, not layouts
+commons	print	Lissitzky poster	n/a	1/26	USSR Russische Ausstellung (KUNSTGEWERBEMUSEUM ZÜRICH full-height left edge) - canonical example
+commons	print	polish poster typography	n/a	1/28	WKP Poznań 1929 (1919-1929 rotated down right edge); also an L07 hit
+commons	print	Kunstgewerbemuseum Zürich Plakat	n/a	0/26	duplicate Lissitzky + binding scans
+commons	print	Max Bill Plakat	n/a	0/18	periodical bindings
+commons	print	Gustav Klutsis poster	n/a	1/28	Udarnaya brigada (rotated slogan full height along left); a second (Pod znamenem Lenina) is half-height, rejected

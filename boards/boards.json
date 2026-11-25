@@ -1,0 +1,186 @@
+[
+{
+ "id": "L01", "title": "Split Field",
+ "description": "A page cut into two contrasting fields along one straight line: image against flat colour, or black against colour. Neither half is subordinate, and the cut is the strongest element on the page.",
+ "ref": "L01-koal.png", "refSite": "Koal Studio", "refUrl": "https://koal.ch",
+ "annotations": [
+  [0, 0, 58, 22, "left field: flat black + wordmark anchored bottom-left"],
+  [58, 0, 42, 43, "right field: flat red + one graphic shape"],
+  [57, 0, 2, 43, "the cut: one straight vertical line, full height"],
+  [0, 22, 58, 21, "text lives only in the non-image half"],
+  [67, 58, 33, 14, "split repeats lower down: black field | photo"],
+  [0, 91, 100, 9, "closing band: full-width colour field + giant wordmark"]
+ ],
+ "wire": [[0,0,58,22,"fill"],[58,0,42,43,"img"],[0,22,58,21,"text"],[0,44,100,12,"row4"],[0,58,67,14,"fill"],[67,58,33,14,"img"],[0,72,100,19,"text"],[0,91,100,9,"fill"]],
+ "prompt": "Style: Split Field\n• Page: a vertical scroll of full-width bands. The key bands are divided into exactly two fields by one straight vertical cut. No cards, no rounded containers, no gutters at the cut.\n• Grid model: 12 columns. Split bands use 7/5 or 6/6. One field is a flat solid colour (or black); the other is a full-bleed photo or a single graphic shape on colour.\nHero band (100vh):\n• Left field: flat black, wordmark set large and anchored bottom-left.\n• Right field: saturated colour (e.g. red) holding one centred graphic or photo, bleeding to the top and right edges.\n• Nav: 4 small links inside the top edge of the right field.\nIntro band: short paragraph set in the left field only, right field continues as flat colour.\nServices row: 4 equal outline icons with labels, full width, thin rule above and below.\nProject band: split again, swapped: flat black field (left 2/3) with project title bottom-left | photo (right 1/3).\nContact band: large email address on white, left-aligned.\nFooter: full-width colour field with the wordmark repeated at full page width.\nHeader → split hero → text → icons → swapped split → contact → colour footer. Every key band is two fields and one cut; never three.",
+ "words": ["split screen layout", "50/50 split", "two-panel composition", "diptych layout", "half image half colour", "vertical split hero", "Split Screen (Taste Engine tag)"],
+ "winner": "structural — \"two-column 50/50 viewport division, image region and type region of equal weight separated by a single vertical cut line\" (5/10)",
+ "sites": [["Koal Studio","https://koal.ch"],["Salva López","https://salvalopez.com"],["Thomas Monavon","https://thomasmonavon.com"],["Blæd Agency","https://blaedagency.com"],["Gotham Greens careers","https://gothamgreens.com/careers"]],
+ "influences": "El Lissitzky, Beat the Whites with the Red Wedge (1919); Swiss two-colour event posters; editorial diptych spreads."
+},
+{
+ "id": "L02", "title": "Exposed Ruled Grid",
+ "description": "The grid is drawn. Hairline rules, cells and crosshairs are visible across the page, and every image, label and headline snaps into a cell like a spreadsheet or calendar.",
+ "ref": "L02-vienna.png", "refSite": "Viennese Modernism 2018", "refUrl": "https://modernism.vienna.info/en/",
+ "annotations": [
+  [0, 0, 33, 6, "masthead sits in its own ruled cells"],
+  [0, 6, 100, 1, "hairline rules drawn between every cell"],
+  [33, 6, 34, 26, "image cell: art cropped to the cell, rule frames it"],
+  [67, 25, 33, 17, "rotated label set inside a cell"],
+  [0, 42, 33, 25, "headline cell: small caps text, link at cell foot"],
+  [0, 85, 100, 15, "footer: same 3-col ruling continues to the edge"]
+ ],
+ "wire": [[0,0,33,6,"text"],[33,0,34,6,"text"],[67,0,33,6,"text"],[0,6,33,21,"rule"],[33,6,34,26,"img"],[67,6,33,19,"rule"],[0,27,33,15,"rule"],[67,25,33,17,"img"],[0,42,33,25,"text"],[33,42,34,25,"img"],[67,42,33,25,"text"],[0,67,33,18,"rule"],[33,67,34,18,"img"],[67,67,33,18,"text"],[0,85,100,15,"rule"]],
+ "prompt": "Style: Exposed Ruled Grid\n• Page: the whole page is a visible grid. 1px black hairlines divide it into cells; every element lives inside one cell or spans whole cells. Nothing floats over the rules.\n• Grid model: 3 equal columns (desktop), rows of varying height. All rules are the same weight; no shadows, no rounded corners, no gutters — cells touch.\nHeader row:\n• Cell 1: [Small stacked wordmark]. Cell 2: [Centred wordmark]. Cell 3: [Language] and [Menu] right-aligned.\nCell types (mixed through the page):\na. Image cell: photo or artwork cropped to fill the cell edge to edge.\nb. Headline cell: 2–4 words in uppercase grotesk, top-left, with a small [Read more] link pinned to the cell's bottom edge.\nc. Rotated-label cell: one label running vertically inside a black-bordered inner box.\nd. Empty ruled cell or diagram cell (thin line drawings, dots).\n• Images may span two cells vertically but never break the column rules.\nFooter row: same 3 columns, small links ([Legal], [Newsletter], [Follow us]) one per cell.\nHeader → grid of mixed cells → footer. The rules are visible everywhere; the composition is the table.",
+ "words": ["exposed grid", "visible ruled grid layout", "hairline grid website", "Swiss grid with rules", "table-like layout", "calendar grid poster", "modular boxed layout"],
+ "winner": "name — \"exposed grid, visible ruled grid layout\" (5/10)",
+ "sites": [["Viennese Modernism","https://modernism.vienna.info/en/"],["CalArts Design 2024","https://design2024.calarts.edu"],["Blocks — Shawn Lukas","https://blocks.shawnlukas.com"],["Poster Tribune","https://poster-tribune.ch"],["Buszewski","https://buszewski.com"],["Morgan Hyland","https://morganhyland.com"]],
+ "influences": "Josef Müller-Brockmann, Grid Systems in Graphic Design; Karl Gerstner, Designing Programmes; periodic tables and almanac charts."
+},
+{
+ "id": "L03", "title": "Ledger Composition",
+ "description": "The whole page is a dense list or index set in columns and rows. Project, year, client and category repeat down the page, and the rhythm of the rows takes the place of imagery.",
+ "ref": "L03-grcic.png", "refSite": "Konstantin Grcic", "refUrl": "https://konstantin-grcic.com",
+ "annotations": [
+  [0, 0, 100, 4, "every row is one project: TITLE / TYPE / CLIENT"],
+  [0, 4, 30, 2, "year set small below each title"],
+  [0, 0, 100, 100, "no hero, no images: the list is the whole page"],
+  [0, 30, 100, 1, "row bands separated by thin dark gaps"],
+  [60, 60, 40, 10, "uniform type size top to bottom; rhythm carries hierarchy"]
+ ],
+ "wire": [[0,0,100,3,"text"],[0,4,100,3,"row"],[0,8,100,3,"row"],[0,12,100,3,"row"],[0,16,100,3,"row"],[0,20,100,3,"row"],[0,24,100,3,"row"],[0,28,100,3,"row"],[0,32,100,3,"row"],[0,36,100,3,"row"],[0,40,100,3,"row"],[0,44,100,3,"row"],[0,48,100,3,"row"],[0,52,100,3,"row"],[0,56,100,3,"row"],[0,60,100,3,"row"],[0,64,100,3,"row"],[0,68,100,3,"row"],[0,72,100,3,"row"],[0,76,100,3,"row"],[0,80,100,3,"row"],[0,84,100,3,"row"],[0,88,100,3,"row"],[0,92,100,3,"row"],[0,96,100,3,"row"]],
+ "prompt": "Style: Ledger Composition\n• Page: a single full-width list. No hero image, no cards, no grid of thumbnails. The list starts at the top of the first screen.\n• Grid model: rows span the full content width; inside each row, 3–4 aligned text columns. Rows are separated by thin rules or narrow bands of contrast.\nHeader row (top edge, one line): [Name] left, [Index] [Info] [Contact] right.\nList (most of the page height):\n• About 50–100 rows, newest first.\n• Each row: [PROJECT TITLE] / [Type] / [Client], uppercase, then [Year] set smaller underneath or in a right-aligned column.\n• All rows the same height and type size. Optional: a small image preview appears only on hover, beside the cursor.\n• Group headers (e.g. year) may break the list every 10–20 rows.\nFooter: [Copyright] and [Contact] on one line.\nHeader → list → footer. The composition is the repetition of rows; text rhythm replaces imagery.",
+ "words": ["full screen list of projects", "index list website", "text rows with thin rules", "tabular typography", "railway timetable layout", "tracklist poster", "data sheet typography"],
+ "winner": "visual — \"full screen of text rows listing project, year, client and category in aligned columns with thin rules between, no hero image\" (6/10)",
+ "sites": [["Konstantin Grcic","https://konstantin-grcic.com"],["Digitization.wiki","https://digitization.wiki"],["First Child","https://firstchild.co"],["Holy Motors — services","https://holymotors.com/services"],["Bakken & Bæck — team","https://bakkenbaeck.com/team"],["Ben Powell","https://bpowell.co"],["Watarigarasu","https://watarigarasu.work"]],
+ "influences": "19th-century railway timetables; record-sleeve tracklists; Wim Crouwel's Stedelijk catalogues; museum collection indexes."
+},
+{
+ "id": "L04", "title": "Specimen Matrix",
+ "description": "Ten or more images of equal weight repeated in a regular grid, like a contact sheet or specimen tray. The eye reads the set, not the single item, and the matrix itself is the composition.",
+ "ref": "L04-edeani.png", "refSite": "Ike Edeani", "refUrl": "https://edeani.com",
+ "annotations": [
+  [0, 0, 100, 6, "matrix starts at the top edge: no hero, no headline"],
+  [0, 6, 100, 7, "rows of 4–5 images, even vertical spacing"],
+  [22, 14, 18, 6, "images keep their own ratio inside a fixed column"],
+  [0, 0, 3, 100, "generous white margins frame the whole set"],
+  [0, 50, 100, 10, "no labels: the set reads as one specimen sheet"]
+ ],
+ "wire": [[4,1,16,5,"img"],[24,1,16,5,"img"],[44,1,20,5,"img"],[68,1,14,5,"img"],[86,1,12,5,"img"],[4,8,16,5,"img"],[24,8,16,5,"img"],[44,8,20,5,"img"],[68,8,14,5,"img"],[86,8,12,5,"img"],[4,15,16,5,"img"],[24,15,16,5,"img"],[44,15,20,5,"img"],[68,15,14,5,"img"],[86,15,12,5,"img"],[4,22,16,5,"img"],[24,22,16,5,"img"],[44,22,20,5,"img"],[68,22,14,5,"img"],[86,22,12,5,"img"],[4,29,16,5,"img"],[24,29,16,5,"img"],[44,29,20,5,"img"],[68,29,14,5,"img"],[86,29,12,5,"img"],[4,36,16,5,"img"],[24,36,16,5,"img"],[44,36,20,5,"img"],[68,36,14,5,"img"],[86,36,12,5,"img"]],
+ "prompt": "Style: Specimen Matrix\n• Page: an edge-to-edge (within margins) grid of images of equal visual weight. No hero, no headline block, no cards. The grid starts at the top of the first screen.\n• Grid model: 4–6 columns with even gutters and wide outer margins (about 3–5% of width). Every cell is the same width; images keep their own aspect ratio inside the cell, centred.\nHeader row (top edge): [Name] left, [Projects] [Info] right, small.\nMatrix (most of the page height):\n• 40–100 images, consistent photographic treatment (same light, same distance), arranged row by row.\n• Rows are evenly spaced; no image is enlarged.\n• Optional: a tiny caption under each cell, or none at all.\nFooter: [Contact] and [Copyright] small, left.\nHeader → matrix → footer. Repetition and sameness carry the page.",
+ "words": ["contact sheet layout", "uniform thumbnail grid", "typology photography grid", "catalogue grid", "specimen sheet layout", "grid of equal images"],
+ "winner": "see calibration.tsv",
+ "sites": [["Ike Edeani","https://edeani.com"],["Ben Mingo","https://benmingo.com"],["Essesi","https://essesi.com"],["Supreme","https://supreme.com"]],
+ "influences": "Bernd & Hilla Becher typologies; Ed Ruscha's photo books; natural-history specimen plates; mail-order catalogue grids."
+},
+{
+ "id": "L05", "title": "Whisper Margins",
+ "description": "The centre of the page is empty and all information is tiny type pushed into the corners and along the edges. The frame is the composition; the emptiness is the hero.",
+ "ref": "L05-doji.png", "refSite": "Doji", "refUrl": "https://doji.com",
+ "annotations": [
+  [0, 0, 20, 8, "top-left corner: [Manifesto]"],
+  [40, 0, 20, 8, "top-centre: wordmark, same small size"],
+  [80, 0, 20, 8, "top-right corner: [Careers]"],
+  [10, 15, 80, 70, "empty centre: the hero is the void"],
+  [0, 92, 20, 8, "bottom-left: [Socials]"],
+  [40, 92, 20, 8, "bottom-centre: single call to action"]
+ ],
+ "wire": [[2,2,12,2,"text"],[44,2,12,2,"text"],[86,2,12,2,"text"],[2,96,12,2,"text"],[44,96,12,2,"text"],[90,96,8,2,"text"]],
+ "prompt": "Style: Whisper Margins\n• Page: one full viewport per section. The centre is empty. All text is tiny (11–13px) and pinned to the four corners and edge midpoints. No hero image, no headline.\n• Grid model: a frame of 6 anchor points (top-left, top-centre, top-right, bottom-left, bottom-centre, bottom-right) with equal inset (about 2% of width).\nFirst screen:\n• Top-left: [Manifesto]. Top-centre: [Wordmark] at the same small size. Top-right: [Careers].\n• Bottom-left: [Socials]. Bottom-centre: [Get the app] or one call to action. Bottom-right: [Sound] or a small icon.\n• Centre: empty. Optionally one small dot, line or image under 5% of the area.\nFurther sections (if any): repeat the frame; content appears as a single small block or image placed off-centre in a large empty field.\nThe corners hold everything; the field in between holds nothing.",
+ "words": ["tiny type in the corners", "empty centre layout", "corner text minimal website", "negative space frame", "whitespace frame layout", "gallery minimal"],
+ "winner": "see calibration.tsv",
+ "sites": [["Doji","https://doji.com"],["Neutral Studio","https://neutral.studio"],["Reframed","https://reframed.studio"]],
+ "influences": "Dutch reductive posters; gallery wall labels; Experimental Jetset invitations; museum exhibition title walls."
+},
+{
+ "id": "L06", "title": "Lone Object in Void",
+ "description": "One object, taking up less than a third of the frame, sits roughly centred in a flat empty field. Type is minimal, and the object is presented like a sculpture.",
+ "ref": "L06-standardequipment.png", "refSite": "Standard Equipment", "refUrl": "https://standardequipment.ca",
+ "annotations": [
+  [0, 0, 100, 31, "first screen: one object, centred, flat grey field"],
+  [38, 3, 25, 9, "object under ~10% of the area, soft shadow only"],
+  [0, 31, 100, 2, "status labels pinned to the bottom corners"],
+  [0, 33, 100, 50, "below: each product isolated in its own void cell"],
+  [0, 92, 100, 8, "wordmark set full width at the very end"]
+ ],
+ "wire": [[38,8,24,12,"img"],[2,29,10,1,"text"],[88,29,10,1,"text"],[2,34,30,15,"img"],[35,34,30,15,"img"],[68,34,30,15,"img"],[2,50,30,15,"img"],[35,50,30,15,"img"],[68,50,30,15,"img"],[2,66,30,15,"img"],[35,66,30,15,"img"],[68,66,30,15,"img"],[0,92,100,6,"fill"]],
+ "prompt": "Style: Lone Object in Void\n• Page: each screen presents one object. Flat solid background (light grey, white or one colour). No patterns, no collage, no overlapping text on the image.\n• Grid model: the object sits on the vertical centre axis, occupying 10–30% of the frame; everything else is empty field.\nFirst screen (100vh):\n• Centre: [Product photo], cut out or shot on a seamless ground, soft natural shadow only.\n• Bottom-left: [Loading / status label]. Bottom-right: [Index or %], both tiny.\nProduct section: a 3-column grid of cells, each cell its own small void with one object centred and a caption bar at the bottom ([Name] left, [Price] right).\nFooter: [Wordmark] set across the full page width in heavy grotesk; contact line underneath.\nObject → objects → wordmark. Scale contrast between small object and big empty field is the composition.",
+ "words": ["single object negative space", "isolated product on plain background", "object centred empty field", "still life poster minimal", "product as sculpture"],
+ "winner": "see calibration.tsv",
+ "sites": [["Standard Equipment","https://standardequipment.ca"]],
+ "influences": "Irving Penn still lifes; Dieter Rams-era Braun catalogues; museum object photography; Apple's early product pages."
+},
+{
+ "id": "L07", "title": "Bookend Type",
+ "description": "Giant display type pins the top and bottom of the format, and the content sits in the gap between the two bands. The bands bleed off the sides and act as header and footer at poster scale.",
+ "ref": "L07-pressplayontape.png", "refSite": "Press Play On Tape", "refUrl": "https://pressplayontape.studio",
+ "annotations": [
+  [0, 6, 100, 7, "top band: 'PRESS' / 'PLAY' at display scale, bleeding off right"],
+  [0, 13, 100, 5, "middle: colour bands carry 'ON'"],
+  [0, 18, 100, 6, "bottom band: 'TAPE' closes the frame"],
+  [0, 24, 100, 25, "content sits between the bands, small type"],
+  [0, 78, 100, 22, "black closing field = second bookend"]
+ ],
+ "wire": [[0,6,100,6,"fill"],[0,12,100,6,"fill"],[0,18,100,6,"fill"],[30,25,45,6,"text"],[45,40,50,5,"text"],[30,52,40,3,"text"],[45,58,55,18,"img"],[0,78,100,22,"fill"]],
+ "prompt": "Style: Bookend Type\n• Page: the first screen is framed by two bands of giant display type, one pinned to the top, one to the bottom. Content sits in the zone between them. Type bleeds off at least one side.\n• Grid model: three horizontal zones in the first screen — top type band (~25% height), middle content zone (~50%), bottom type band (~25%).\nFirst screen:\n• Top band: [Word 1] and [Word 2] in heavy grotesk at 12–16vw, set flush left and flush right, cropped at the edge.\n• Middle: [Word 3] on a full-width flat colour stripe, or [Image/statement].\n• Bottom band: [Word 4] at the same size on a second colour stripe, with a tiny tagline at its left edge.\nBelow: sections of small text and one image on a light ground; the scale drops sharply after the bookends.\nFooter: a full-width black field with small links — the page closes with a second, quieter bookend.\nTop band → content → bottom band. The huge type frames; it does not fill.",
+ "words": ["three horizontal zones with display type top and bottom", "giant wordmark header and footer", "type bands bleeding off edges", "lithographic poster typography", "Swiss poster type bands"],
+ "winner": "structural — \"three horizontal zones: oversized display type band top, framed content middle, oversized display type band bottom\" (1/10)",
+ "sites": [["Press Play On Tape","https://pressplayontape.studio"]],
+ "influences": "French lithographic posters (c.1900); Polish exhibition posters (1920s–30s); Max Bill and Theo Ballmer posters."
+},
+{
+ "id": "L08", "title": "Vertical Spine Type",
+ "description": "A line of display type is rotated 90° and runs the full height of the page as a structural column or edge. Images and text hang against it like pages from a book spine.",
+ "ref": "L08-fabianfallend.png", "refSite": "Fabian Ferdinand Fallend", "refUrl": "https://fabianfallend.com",
+ "annotations": [
+  [82, 0, 18, 30, "spine: surname rotated 90°, red, full height of screen"],
+  [0, 22, 40, 14, "images hang against the spine at uneven heights"],
+  [72, 30, 6, 25, "secondary rotated labels (CONTRIBUTOR, EDITORIAL)"],
+  [0, 0, 100, 100, "faint ruled grid underneath everything"],
+  [0, 90, 100, 10, "name set horizontally at the foot: spine turns flat"]
+ ],
+ "wire": [[86,0,12,30,"fill"],[2,22,30,10,"img"],[44,28,24,12,"img"],[74,30,3,15,"text"],[10,42,20,10,"img"],[38,48,24,12,"img"],[2,62,30,10,"img"],[44,68,24,10,"img"],[74,55,3,15,"text"],[0,90,100,9,"fill"]],
+ "prompt": "Style: Vertical Spine Type\n• Page: one line of display type rotated 90° runs the full height of the viewport along one edge (or the centre). It is structural — the rest of the page is arranged against it.\n• Grid model: 12 columns; the spine occupies 1–2 columns at the right (or left) edge and stays fixed while content scrolls.\nFirst screen:\n• Spine: [Name or wordmark], heavy grotesk, rotated 90°, red or black, cropped top and bottom.\n• Remaining columns: [Small nav] top-left; [Short intro] centred, small.\nContent field:\n• Images of varied size placed at uneven heights in the other columns, each with a small uppercase caption.\n• Secondary rotated labels (section names) run vertically beside image groups.\nFooter: the name set horizontally at full width — the spine turns flat at the end.\nSpine + content → horizontal wordmark footer.",
+ "words": ["vertical spine typography", "rotated 90 degree wordmark", "type running up the edge", "sideways headline column", "Vertical / Rotated Typography (tag)", "constructivist vertical type"],
+ "winner": "name / corpus-tag tie — \"vertical spine typography, rotated 90 degree wordmark running full height as a column\" (2/10)",
+ "sites": [["Fabian Ferdinand Fallend","https://fabianfallend.com"],["Briganti","https://briganti.studio"],["Better Known","https://betterknown.co"],["Sick Agency","https://sick.agency"]],
+ "influences": "El Lissitzky, USSR Russische Ausstellung (1929); Gustav Klutsis; book-spine typography; sports and festival posters."
+},
+{
+ "id": "L09", "title": "Colour Block Mosaic",
+ "description": "The page is tiled into a few large rectangles of flat, saturated colour. Photos and headlines sit inside the blocks, and colour weight sets the hierarchy.",
+ "ref": "L09-memphis.png", "refSite": "Memphis Milano", "refUrl": "https://memphis.it/en",
+ "annotations": [
+  [0, 0, 50, 13, "photo block"],
+  [50, 0, 50, 13, "flat orange block: headline + short text"],
+  [0, 13, 100, 2, "pattern strip separates rows of blocks"],
+  [0, 15, 50, 12, "flat green block holds the headline"],
+  [0, 27, 100, 5, "full-width blue block: type marquee"],
+  [50, 32, 50, 12, "yellow block: title + button, no image"]
+ ],
+ "wire": [[0,0,50,13,"img"],[50,0,50,13,"fill"],[0,13,100,1,"rule"],[0,14,50,12,"fill"],[50,14,50,12,"img"],[0,27,100,5,"fill"],[0,32,50,12,"img"],[50,32,50,12,"fill"],[0,45,100,3,"fill"],[0,49,50,12,"fill"],[50,49,50,12,"img"],[0,62,100,3,"fill"],[0,66,50,12,"img"],[50,66,50,12,"fill"],[0,80,50,12,"fill"],[50,80,50,12,"img"],[0,93,100,7,"fill"]],
+ "prompt": "Style: Colour Block Mosaic\n• Page: the page is tiled into large rectangles of flat saturated colour, edge to edge, with thin black gutters or pattern strips between rows. No gradients, no rounded corners, no shadows.\n• Grid model: 2 columns of equal width; each row is one photo block + one colour block, alternating sides. Full-width colour bands interrupt every 2–3 rows.\nBlock types:\na. Colour block: one flat colour (orange, green, yellow, pink, red, purple, blue), holding a heavy uppercase headline top-left, 2 lines of body text and one small black button.\nb. Photo block: one photo filling the block edge to edge.\nc. Band: full-width colour stripe carrying a type marquee or a single line of display text cropped at both edges.\nd. Pattern strip: a thin decorative strip (squiggles, stripes) between rows.\nFooter: one last full-width colour block with company details.\nRows of colour + photo → bands → footer. Colour, not boxes, defines structure.",
+ "words": ["unequal colour blocks tiling the viewport", "flat colour panels", "Mondrian grid layout", "colour blocking editorial layout", "rectangular colour fields"],
+ "winner": "structural — \"unequal rectangular colour regions tiling the full viewport edge to edge, no gaps, no rounded corners\" (4/10)",
+ "sites": [["Memphis Milano","https://memphis.it/en"],["Press Play On Tape","https://pressplayontape.studio"],["Salt Architecture","https://saltarchitecture.nz"]],
+ "influences": "Theo van Doesburg and De Stijl; Armin Hofmann and Josef Müller-Brockmann museum posters; Memphis Group (1981–85)."
+},
+{
+ "id": "L10", "title": "Text Wall",
+ "description": "A block of running prose set large enough to fill most of the page like a texture. There is no separate headline and no hero image; the paragraph is the hero.",
+ "ref": "L10-wearegradient.png", "refSite": "Gradient® (About)", "refUrl": "https://wearegradient.net/about",
+ "annotations": [
+  [27, 3, 70, 14, "the hero is one paragraph, ~32px, filling the screen"],
+  [0, 3, 25, 4, "tiny section labels in a left margin column"],
+  [27, 18, 70, 16, "the wall continues: paragraph after paragraph"],
+  [27, 36, 70, 25, "short bold lead-ins, same size as the body"],
+  [0, 90, 100, 10, "footer: small type lists, separate grey field"]
+ ],
+ "wire": [[2,3,15,1,"text"],[27,3,70,14,"textwall"],[2,18,15,1,"text"],[27,18,70,16,"textwall"],[2,36,15,1,"text"],[27,36,70,26,"textwall"],[27,74,40,2,"text"],[27,80,20,3,"text"],[0,90,100,10,"fill"]],
+ "prompt": "Style: Text Wall\n• Page: running prose is the main content, set at 28–40px (about 2–3vw) so that one paragraph fills most of the first screen. No hero image, no separate headline.\n• Grid model: 12 columns. Left 3 columns hold tiny section labels aligned to the top of each paragraph; right 8–9 columns hold the text wall.\nFirst screen: [Paragraph 1, 80–120 words] starting near the top, ragged right, tight leading. Label [Ourselves] in the left margin.\nFurther sections: [Our Clients], [Our Process] — each a label + a paragraph of the same size. Short lead-in lines ([Function is Not a Curse…]) are set at the same size, not bigger.\nContact: [email] at the same text size.\nFooter: a separate field with small lists of links in 3–4 columns.\nLabel + wall, repeated → footer. The voice, set big, is the image.",
+ "words": ["one long paragraph in huge type", "manifesto website", "big paragraph homepage", "text block as image", "large body text design", "proclamation broadside"],
+ "winner": "visual — \"homepage that is just one long paragraph of running prose in huge type filling the whole screen\" (3/10)",
+ "sites": [["Gradient® — about","https://wearegradient.net/about"],["NewWorld — about","https://newworld.co/about"],["Einride — about","https://einride.tech/about"],["Keith Greenbaum","https://keithgreenbaum.com"],["Melt","https://melt.works"]],
+ "influences": "18th-century broadsides and proclamations; Barbara Kruger text works; Experimental Jetset statement posters."
+}
+]

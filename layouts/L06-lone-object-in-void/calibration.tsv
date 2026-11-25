@@ -1,0 +1,12 @@
+source	lens	query	filter	hits_out_of_10	notes
+taste-engine	name	lone object in void: single product shot as sculpture, isolated on empty background	none	3	chipsa, euveka, standardequipment (co-WINNER); rest are gallery-spare shop grids
+taste-engine	visual	one small product or object centred on a plain solid-colour background with huge empty space around it and a tiny caption	none	3	euveka(www), maxmilkin, itsmarga (co-WINNER); itsmarga and maxmilkin were captured mid-loader
+taste-engine	structural	single centred focal image occupying under a third of the frame, flat empty field, one short label, one focal point everything else recedes	none	0	Abstract structure language returns generic centred studio portfolios with headline heroes
+taste-engine	corpus-tag	Symmetric / Centered, Centered Void, Studio / Product, Generous/Expansive, Few Elements Per Screen, Poster / Hero-Centric	layout=centered_symmetric	0	centered_symmetric filter means centred headline, not centred object
+taste-engine	tone+layout	reverent still product-as-sculpture: one object centred on a solid neutral or single saturated ground, soft even light, minimal serif caption	none	1	euveka only; "product-as-sculpture" pulls lifestyle interiors and product grids
+firecrawl	summary	winning TE phrasing (name/visual) -> live scrapes + own knowledge (merit, panconesi, analogue.co/pocket, teenage.engineering op-1); 9 live scrapes, 2 failed (chipsa proxy errors)	n/a	1/7 scraped	Hit: standardequipment. Misses: itsmarga and maxmilkin (loader states in corpus, not the real page), euveka (headline dominates), analogue/op-1 (object too large, cropped), merit/panconesi (full-bleed)
+commons	query	Swiss poster product	n/a	0/3	Tourism posters and photos of Swiss objects in situ
+commons	query	object poster white background minimalist	n/a	0/2	Only 2 results; neither a layout
+commons	query	Sachplakat	n/a	0/3	Erdt/Bernhard object posters: object fills 40-70% of frame plus bold wordmark, failing the under-30% test
+commons	query	Lucian Bernhard poster	n/a	0/19	Bernhard is well covered on Commons but only via WWI war-bond text posters (LoC scans), no object posters
+commons	query	Niklaus Stoecklin / Herbert Leupin	n/a	0/14	Mostly murals/paintings; Leupin "Hilf uns" 1958 (flowerpot on navy) is a near miss, object too large

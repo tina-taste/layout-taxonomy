@@ -1,0 +1,13 @@
+file	brand	url	match	reason	search_id
+01-reframed.jpg	reframed	https://reframed.online/about	strong	Black screen with a cluster of tiny text dead centre and faint fragments in all four corners—near-empty asymmetric void matching exactly.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+02-pendo.jpg	pendo	https://www.pendo.ca/	strong	White void with tiny serif labels pushed to top corners and bottom edge, empty centre—close to your brief though slightly cluttered at the bottom.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+03-neutral-studio.jpg	neutral-studio	https://neutral-studio.com/	strong	Black void with tiny text fragments in corners, a timestamp, and one bottom line; centre near-empty save a small mark—strong sparse match.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+04-oker.jpg	oker	https://oker.com/projects/field	strong	Vast white emptiness with tiny nav top, a word left, and a lone dot right—sparse and asymmetric, close to your void brief.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+05-bolt-designs.jpg	bolt-designs	https://bolt-designs.co.in/	good	Pale grey void with headline top-left and faint text bottom-right leaves much emptiness, but fragments aren't pushed to all corners.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+06-rogidsgn.jpg	rogidsgn	https://rogidsgn.com/	good	Mostly empty white with small nav top-right and a black card bottom-left, but the sizeable logo card breaks the tiny-fragment feel.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+07-off.jpg	off	https://off.site/	related	Huge centred serif headline dominates the frame; corner fragments exist but the big type fills the centre, not an empty void.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+08-epochbiodesign.jpg	epochbiodesign	https://epochbiodesign.com/	related	Large green headline top-left and paragraph bottom-right leave whitespace, but content clusters rather than scattering tiny fragments into corners.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+09-twelvetwentystudio.jpg	twelvetwentystudio	https://twelvetwentystudio.com/	related	Bold centred headline and nav pills anchor the top; lots of empty space but text is large and centred, not tiny corner fragments.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+10-andrewleguay.jpg	andrewleguay	https://andrewleguay.com/	related	Dense swirling cloud of overlapping text fills the left half, cluttered and chaotic—the opposite of empty sparse corners.	cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+11-coevalstudio.jpg	coevalstudio	https://coevalstudio.com/	related		cced67aa-9bed-47bf-ab31-2a61ddc6cdc9
+12-artemshcherban.jpg	artemshcherban	https://artemshcherban.com/	good		cced67aa-9bed-47bf-ab31-2a61ddc6cdc9

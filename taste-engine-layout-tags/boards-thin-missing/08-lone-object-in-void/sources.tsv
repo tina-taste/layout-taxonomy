@@ -1,0 +1,13 @@
+file	brand	url	match	reason	search_id
+01-maxmilkin.jpg	maxmilkin	https://maxmilkin.com/	strong	A single rock sits centered in a large muted green field with tiny caption, matching the spacious gallery feel though it's a rendered scene rather than flat cut-out.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+02-horrorvacuistudio.jpg	horrorvacuistudio	https://horrorvacuistudio.com/about	good	A single chair image floats on a vast white field with minimal caption, but it's off-center top-left and photographed in context rather than clean cut-out.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+03-matthewpothier.jpg	matthewpothier	https://matthewpothier.com/	good	A single dark object centers in an empty black field, spacious and minimal, but the near-black-on-black tone kills the clean flat-color cut-out clarity.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+04-huyml.jpg	huyml	https://huyml.co/	good	A single tiny line of text centered in an enormous flat grey field is extremely minimal and spacious, but the subject is caption not object.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+05-almond.jpg	almond	https://almond.studio/	related	Busy multi-panel grid of photos and text lists over green, cluttered and editorial rather than one object in flat emptiness.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+06-eminente.jpg	eminente	https://eminente.art/	related	Spacious off-white editorial spread with lots of empty space, but has no centered object, reading as an empty page layout.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+07-studiovignette.jpg	studiovignette	https://studiovignette.com.au/	related	Warm beige editorial layout with serif headline and a cropped product photo off to the side, not a centered isolated cut-out.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+08-oker.jpg	oker	https://oker.com/projects/field	related	Vast empty white field is spacious, but the subject is a giant left-aligned 'Field' wordmark, not a small centered object.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+09-jhannahjewelry.jpg	jhannahjewelry	https://jhannahjewelry.com/pages/about	related	Classic black-and-white gallery with a centered figure photo, but busy navigation and side panel clutter break the clean empty-field feel.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+10-bzor.jpg	bzor	https://bzor.com/	related	Dense dark UI crammed with bold type, paragraphs and grid lines, the opposite of a single centered object in empty space.	6b34881a-1bad-4eef-a685-0a87ddc036b8
+11-defiant.jpg	defiant	https://defiant.vc/	good		6b34881a-1bad-4eef-a685-0a87ddc036b8
+12-museeholocauste.jpg	museeholocauste	https://witnessestohistory.museeholocauste.ca/about	related		6b34881a-1bad-4eef-a685-0a87ddc036b8

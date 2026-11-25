@@ -1,0 +1,11 @@
+kind	query	evidence_url	hits_out_of_10	new_hits	notes
+alt-name	vertical typography	https://uxdesign.cc/vertically-works-design-exploration-on-vertical-typography-75164eed11a8	0	none	Engine returns generic big-type studios (non-linear half-height, drivecapital, fielddaysound); word 'vertical' not mapped to rotation
+alt-name	vertical lettering in web design	https://speckyboy.com/going-up-vertical-lettering-in-web-design/	1	none	betterknown only; engine inferred industry=web_development
+alt-name	sideways and vertical text landing page	https://www.elegantthemes.com/blog/divi-resources/using-sideways-and-vertical-text-to-create-a-unique-landing-page-with-divi	1	none	fabianfallend; 'landing page' routed page_type
+alt-name	vertical text website	https://dribbble.com/search/vertical-text	0	none	non-linear/drivecapital/23d - no spines
+alt-name	vertical navigation rotated 90 degrees	https://webdesignerdepot.com/10-sites-doing-vertical-navigation-right/	0	none	Pulls bookshelf/spine metaphors (educated--guess) and sidebar navs - spec 'Not' case
+alt-name	(round-1 rerun) vertical spine typography, rotated 90 degree wordmark running full height as a column	(round 1)	2	none	briganti, betterknown - still the best name-type query
+screen-short	one huge word turned sideways running full height down the left edge	n/a	2	none	betterknown, fabianfallend; rest giant-horizontal-type sites (drivecapital, monsieurlagent)
+screen-medium	a single giant word rotated 90 degrees fills a narrow column along the left edge from top to bottom, with text and images arranged in the remaining space to its right	n/a	2	none	betterknown, fabianfallend
+screen-detailed	A giant word set sideways runs from the top to the bottom of the screen in a column about 10-15% wide at the left edge. The remaining 85% to its right holds a small menu row at the top, a short block of text and a few images in columns. The sideways word is the largest element on the screen.	n/a	2	none	betterknown, fabianfallend; b4motion/twntytwo have only tiny rotated labels
+tag-mined	Asymmetric, Angular/Sharp, Geometric / Abstract, High Contrast, Strong Hierarchy, Monochromatic, Flat/No Effects, Swiss Style, rotated display type	tags shared by briganti+betterknown	0	none	Shared tags are generic Swiss-studio tags; no rotation tag exists in corpus so tag-mining fails

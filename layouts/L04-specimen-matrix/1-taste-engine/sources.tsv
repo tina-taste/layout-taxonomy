@@ -1,0 +1,12 @@
+file	source_url	brand_or_site	query
+01-benmingo.jpg	https://benmingo.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/c4682995-40e5-5d65-b838-39385cc41179.jpg)	benmingo	visual+name+structural+corpus-tag+tone (all 5)
+02-edeani.jpg	https://edeani.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/5dd45c6e-49b5-5b31-a9b9-e53068c6e150.jpg)	edeani	visual: edge-to-edge grid of uniform same-size thumbnails...
+03-essesi.jpg	https://essesi.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/24786e4d-511b-5a0e-8b4b-38c090cc6d21.jpg)	essesi	visual + tone+layout
+04-zissou.jpg	https://zissou.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/3a352e0f-2713-5942-8740-606d213ee788.jpg)	zissou	structural: flat hierarchy uniform matrix of equal cells...
+05-celiamahiou.jpg	https://celiamahiou.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/a8a0ad49-9e2d-5d6a-aea0-95a787f72b7e.jpg)	celiamahiou	visual
+06-binu-binu.jpg	https://binu-binu.com/products (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/f14c3550-d366-553c-8937-7ce04d5af8fc.jpg)	binu-binu	name + corpus-tag (layout=grid_based_strict)
+07-faint-film.jpg	https://faint-film.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/6032d536-bd1a-56a4-b4a6-018aea46047b.jpg)	faint-film	round2 alt-name: contact sheet
+08-bodyofwateranthology.jpg	https://bodyofwateranthology.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/47f27343-a911-508d-afa0-01e0e6a1c851.jpg)	bodyofwateranthology	round2 alt-name: contact sheet
+09-frankiealduino.jpg	https://frankiealduino.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/84630a54-c591-529e-b4cb-f0f788819b32.jpg)	frankiealduino	round2 alt-name: contact sheet
+10-simmondsltd.jpg	https://simmondsltd.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/b450c136-cbbb-5b7f-b4fb-1e72a421be13.jpg)	simmondsltd	round2 alt-name: contact sheet
+11-eduardsanchezribot.jpg	https://eduardsanchezribot.com/ (screenshot https://sb.engine.thetaste.ai/storage/v1/object/sign/artifacts/search/first-screen/556bdb3a-8060-5ec9-86df-440710d7e6c8.jpg)	eduardsanchezribot	round3 term: Instagram-style grid (bare)
